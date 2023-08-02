@@ -17,8 +17,8 @@ This repository collects meta data for recent large pandemics taken place around
 ## Time Series Case Data
 | Pandemic | Frequency | Start Time | End Time | Collected Area | Data Source |
 | --- | --- | --- | --- | --- | --- |
-| COVID-19 | Daily | 
-| Ebola | Weekly
+| COVID-19 | Daily | | | | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh  |
+| Ebola | Weekly | | | | https://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en |
 | SARS | Daily
 | Dengue Fever | Weekly
 | Monkeypox | Daily
