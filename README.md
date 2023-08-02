@@ -15,12 +15,12 @@ This repository collects meta data for recent large pandemics taken place around
 | Average hospitalization length | The average number of days the patient stays in the hospital.
 
 ## Time Series Case Data
-| Pandemic | Frequency | Start Time | End Time | Originated Area |
+| Pandemic | Frequency | Start Time | End Time | Collected Area |
 | --- | --- | --- | --- | --- |
-| COVID-19 |
-| Ebola |
-| SARS |
-| Dengue Fever |
-| Monkeypox |
-| Zika Virus |
-| Influenza | 
+| COVID-19 | Daily | 
+| Ebola | Weekly
+| SARS | Daily
+| Dengue Fever | Weekly
+| Monkeypox | Daily
+| Zika Virus | Weekly
+| Influenza | Weekly
