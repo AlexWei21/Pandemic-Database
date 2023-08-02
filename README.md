@@ -17,10 +17,10 @@ This repository collects meta data for recent large pandemics taken place around
 ## Time Series Case Data
 | Pandemic | Frequency | Start Time | End Time | Collected Area | Data Source |
 | --- | --- | --- | --- | --- | --- |
-| COVID-19 | Daily | | | | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh  |
-| Ebola | Weekly | | | | https://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en |
-| SARS | Daily | | | | https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-complete-dataset |
-| Dengue Fever | Weekly | | | | https://www.kaggle.com/datasets/arashnic/epidemy |
-| Monkeypox | Daily | | | | https://ourworldindata.org/monkeypox |
-| Zika Virus | Weekly | | | | https://www.kaggle.com/datasets/cdc/zika-virus-epidemic |
-| Influenza | Weekly | | | | https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html |
+| COVID-19 | Daily | January 2022 | May 2023 | United States | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh  |
+| Ebola | Weekly | March 2014 | April 2016 | Africa | https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/case-counts.html |
+| SARS | Daily | March 2003 | July 2003 | World | https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-complete-dataset |
+| Dengue Fever | Weekly | May 1990 | July 2010 | South America | https://www.kaggle.com/datasets/arashnic/epidemy |
+| Monkeypox | Daily | May 2022 | July 2023 | World | https://ourworldindata.org/monkeypox |
+| Zika Virus | Weekly | November 2015 | July 2016 | North/South America | https://www.kaggle.com/datasets/cdc/zika-virus-epidemic |
+| Influenza | Weekly | December 1997 | July 2023 | United States | https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html |
