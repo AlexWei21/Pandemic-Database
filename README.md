@@ -5,6 +5,7 @@ This repository collects meta data for recent large pandemics taken place around
 
 ## Selected Meta Features
 | Reproduction rate |
+| --- |
 | Transmission pathways |
 | Mortality rate | 
 | Hospitalization rate |
