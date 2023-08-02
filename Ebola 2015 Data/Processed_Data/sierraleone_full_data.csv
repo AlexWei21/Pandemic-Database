@@ -1,0 +1,1245 @@
+,Country,Data as of,Case definition,Number of cases Cumulative,Number of cases in past 21 days,Number of deaths Cumulative
+0,Sierra Leone,2014-11-25, Probable,79,,174
+1,Sierra Leone,2014-11-25, Total,6802,,1463
+2,Sierra Leone,2014-11-25, Suspected,1128,,35
+3,Sierra Leone,2014-11-25, Confirmed,5595,,1254
+4,Sierra Leone,2014-11-28, Confirmed,5831,,1321
+5,Sierra Leone,2014-11-28, Probable,79,,174
+6,Sierra Leone,2014-11-28, Suspected,1199,,35
+7,Sierra Leone,2014-11-28, Total,7109,,1530
+8,Sierra Leone,2014-11-30, Confirmed,5978,,1374
+9,Sierra Leone,2014-11-30, Probable,79,,174
+10,Sierra Leone,2014-11-30, Suspected,1255,,35
+11,Sierra Leone,2014-11-30, Total,7312,,1583
+12,Sierra Leone,2014-11-30, Total,7312,1455,1583
+13,Sierra Leone,2014-11-30, Suspected,1255,Not reported,35
+14,Sierra Leone,2014-11-30, Probable,79,Not reported,174
+15,Sierra Leone,2014-11-30, Confirmed,5978,1455,1374
+16,Sierra Leone,2014-12-01, Suspected,1302,,35
+17,Sierra Leone,2014-12-01, Probable,79,,174
+18,Sierra Leone,2014-12-01, Confirmed,6039,,1400
+19,Sierra Leone,2014-12-01, Total,7420,,1609
+20,Sierra Leone,2014-12-03, Probable,79,,174
+21,Sierra Leone,2014-12-03, Suspected,1355,,35
+22,Sierra Leone,2014-12-03, Total,7635,,1660
+23,Sierra Leone,2014-12-03, Confirmed,6201,,1451
+24,Sierra Leone,2014-12-06, Probable,79,,174
+25,Sierra Leone,2014-12-06, Confirmed,6317,,1533
+26,Sierra Leone,2014-12-06, Total,7798,,1742
+27,Sierra Leone,2014-12-06, Suspected,1402,,35
+28,Sierra Leone,2014-12-07, Probable,79,0,174
+29,Sierra Leone,2014-12-07, Suspected,1443,505,35
+30,Sierra Leone,2014-12-07, Confirmed,6375,1319,1559
+31,Sierra Leone,2014-12-07, Total,7897,1824,1768
+32,Sierra Leone,2014-12-09, Confirmed,6457,,1648
+33,Sierra Leone,2014-12-09, Total,8014,,1857
+34,Sierra Leone,2014-12-09, Probable,79,,174
+35,Sierra Leone,2014-12-09, Suspected,1478,,35
+36,Sierra Leone,2014-12-10, Probable,79,,174
+37,Sierra Leone,2014-12-10, Suspected,1493,,35
+38,Sierra Leone,2014-12-10, Total,8069,,1899
+39,Sierra Leone,2014-12-10, Confirmed,6497,,1690
+40,Sierra Leone,2014-12-13, Total,8273,,2033
+41,Sierra Leone,2014-12-13, Confirmed,6638,,1824
+42,Sierra Leone,2014-12-13, Probable,79,,174
+43,Sierra Leone,2014-12-13, Suspected,1556,,35
+44,Sierra Leone,2014-12-14, Suspected,1575,Not reported,35
+45,Sierra Leone,2014-12-14, Probable,79,Not reported,174
+46,Sierra Leone,2014-12-14, Confirmed,6702,1261,1876
+47,Sierra Leone,2014-12-14, Total,8356,1261,2085
+48,Sierra Leone,2014-12-17, Confirmed,6856,,2111
+49,Sierra Leone,2014-12-17, Probable,287,,208
+50,Sierra Leone,2014-12-17, Suspected,1616,,158
+51,Sierra Leone,2014-12-17, Total,8759,,2477
+52,Sierra Leone,2014-12-20, Confirmed,6975,,2190
+53,Sierra Leone,2014-12-20, Probable,287,,208
+54,Sierra Leone,2014-12-20, Suspected,1677,,158
+55,Sierra Leone,2014-12-20, Total,8939,,2556
+56,Sierra Leone,2014-12-21, Probable,287,,208
+57,Sierra Leone,2014-12-21, Total,9004,1039,2582
+58,Sierra Leone,2014-12-21, Confirmed,7017,,2216
+59,Sierra Leone,2014-12-21, Suspected,1700,,158
+60,Sierra Leone,2014-12-21, Total,9004,,2582
+61,Sierra Leone,2014-12-21, Probable,287,Not reported,208
+62,Sierra Leone,2014-12-21, Confirmed,7017,1039,2216
+63,Sierra Leone,2014-12-21, Suspected,1700,Not reported,158
+64,Sierra Leone,2014-12-24, Probable,287,,208
+65,Sierra Leone,2014-12-24, Suspected,1756,,158
+66,Sierra Leone,2014-12-24, Confirmed,7160,,2289
+67,Sierra Leone,2014-12-24, Total,9203,,2655
+68,Sierra Leone,2014-12-27, Probable,287,,208
+69,Sierra Leone,2014-12-27, Confirmed,7326,,2366
+70,Sierra Leone,2014-12-27, Total,9409,,2732
+71,Sierra Leone,2014-12-27, Suspected,1796,,158
+72,Sierra Leone,2014-12-28, Probable,287,Not reported,208
+73,Sierra Leone,2014-12-28, Confirmed,7354,979,2392
+74,Sierra Leone,2014-12-28, Total,9446,979,2758
+75,Sierra Leone,2014-12-28, Probable,287,,208
+76,Sierra Leone,2014-12-28, Suspected,1805,Not reported,158
+77,Sierra Leone,2014-12-28, Suspected,1805,,158
+78,Sierra Leone,2014-12-28, Total,9446,,2758
+79,Sierra Leone,2014-12-28, Confirmed,7354,,2392
+80,Sierra Leone,2014-12-31, Probable,287,,208
+81,Sierra Leone,2014-12-31, Total,9633,,2827
+82,Sierra Leone,2014-12-31, Confirmed,7476,,2461
+83,Sierra Leone,2014-12-31, Suspected,1870,,158
+84,Sierra Leone,2015-01-03, Confirmed,7570,,2549
+85,Sierra Leone,2015-01-03, Probable,287,,208
+86,Sierra Leone,2015-01-03, Suspected,1915,,158
+87,Sierra Leone,2015-01-03, Total,9772,,2915
+88,Sierra Leone,2015-01-04, Probable,287,,208
+89,Sierra Leone,2015-01-04, Confirmed,7602,,2577
+90,Sierra Leone,2015-01-04, Total,9780,900,2943
+91,Sierra Leone,2015-01-04, Total,9780,,2943
+92,Sierra Leone,2015-01-04, Suspected,1891,Not reported,158
+93,Sierra Leone,2015-01-04, Probable,287,Not reported,208
+94,Sierra Leone,2015-01-04, Confirmed,7602,900,2577
+95,Sierra Leone,2015-01-04, Suspected,1891,,158
+96,Sierra Leone,2015-01-06, Total,10 030,,2977
+97,Sierra Leone,2015-01-06, Confirmed,7759,,2611
+98,Sierra Leone,2015-01-06, Probable,287,,208
+99,Sierra Leone,2015-01-06, Suspected,1984,,158
+100,Sierra Leone,2015-01-06, Confirmed,7759,,2611
+101,Sierra Leone,2015-01-06, Probable,287,,208
+102,Sierra Leone,2015-01-06, Suspected,1984,,158
+103,Sierra Leone,2015-01-06, Total,10 030,,2977
+104,Sierra Leone,2015-01-10, Total,10 094,,3049
+105,Sierra Leone,2015-01-10, Confirmed,7766,,2683
+106,Sierra Leone,2015-01-10, Probable,287,,208
+107,Sierra Leone,2015-01-10, Probable,287,,208
+108,Sierra Leone,2015-01-10, Confirmed,7766,,2683
+109,Sierra Leone,2015-01-10, Suspected,2041,,158
+110,Sierra Leone,2015-01-10, Total,10 094,,3049
+111,Sierra Leone,2015-01-10, Suspected,2041,,158
+112,Sierra Leone,2015-01-11, Confirmed,7786,769,2696
+113,Sierra Leone,2015-01-11, Probable,287,Not reported,208
+114,Sierra Leone,2015-01-11, Suspected,2051,Not reported,158
+115,Sierra Leone,2015-01-11, Total,10 124,769,3062
+116,Sierra Leone,2015-01-12, Suspected,2061,,158
+117,Sierra Leone,2015-01-12, Total,10 150,,3067
+118,Sierra Leone,2015-01-12, Confirmed,7802,,2701
+119,Sierra Leone,2015-01-12, Probable,287,,208
+120,Sierra Leone,2015-01-13, Confirmed,7825,,2717
+121,Sierra Leone,2015-01-13, Probable,287,,208
+122,Sierra Leone,2015-01-13, Suspected,2074,,158
+123,Sierra Leone,2015-01-13, Total,10 186,,3083
+124,Sierra Leone,2015-01-17, Suspected,2136,,158
+125,Sierra Leone,2015-01-17, Total,10 306,,3132
+126,Sierra Leone,2015-01-17, Probable,287,,208
+127,Sierra Leone,2015-01-17, Confirmed,7883,,2766
+128,Sierra Leone,2015-01-18, Probable,287,,208
+129,Sierra Leone,2015-01-18, Confirmed,7903,,2779
+130,Sierra Leone,2015-01-18, Total,10 340,,3145
+131,Sierra Leone,2015-01-18, Total,10 340,549,3145
+132,Sierra Leone,2015-01-18, Suspected,2150,Not reported,158
+133,Sierra Leone,2015-01-18, Probable,287,Not reported,208
+134,Sierra Leone,2015-01-18, Confirmed,7903,549,2779
+135,Sierra Leone,2015-01-18, Suspected,2150,,158
+136,Sierra Leone,2015-01-19, Probable,287,,208
+137,Sierra Leone,2015-01-19, Total,10 362,,3153
+138,Sierra Leone,2015-01-19, Confirmed,7909,,2787
+139,Sierra Leone,2015-01-19, Suspected,2166,,158
+140,Sierra Leone,2015-01-20, Probable,287,,208
+141,Sierra Leone,2015-01-20, Suspected,2192,,158
+142,Sierra Leone,2015-01-20, Total,10 400,,3159
+143,Sierra Leone,2015-01-20, Confirmed,7921,,2793
+144,Sierra Leone,2015-01-24, Suspected,2241,,158
+145,Sierra Leone,2015-01-24, Total,10 491,,3195
+146,Sierra Leone,2015-01-24, Confirmed,7963,,2829
+147,Sierra Leone,2015-01-24, Probable,287,,208
+148,Sierra Leone,2015-01-25, Suspected,2263,Not reported,158
+149,Sierra Leone,2015-01-25, Probable,287,,208
+150,Sierra Leone,2015-01-25, Confirmed,7968,,2833
+151,Sierra Leone,2015-01-25, Suspected,2263,,158
+152,Sierra Leone,2015-01-25, Total,10 518,,3199
+153,Sierra Leone,2015-01-25, Total,10 518,366,3199
+154,Sierra Leone,2015-01-25, Confirmed,7968,366,2833
+155,Sierra Leone,2015-01-25, Probable,287,Not reported,208
+156,Sierra Leone,2015-01-26, Total,10 537,,3207
+157,Sierra Leone,2015-01-26, Confirmed,7977,,2841
+158,Sierra Leone,2015-01-26, Probable,287,,208
+159,Sierra Leone,2015-01-26, Suspected,2273,,158
+160,Sierra Leone,2015-01-27, Suspected,2285,,158
+161,Sierra Leone,2015-01-27, Confirmed,7989,,2850
+162,Sierra Leone,2015-01-27, Probable,287,,208
+163,Sierra Leone,2015-01-27, Total,10 561,,3216
+164,Sierra Leone,2015-01-31, Total,10 707,,3274
+165,Sierra Leone,2015-01-31, Suspected,2378,,158
+166,Sierra Leone,2015-01-31, Confirmed,8042,,2908
+167,Sierra Leone,2015-01-31, Probable,287,,208
+168,Sierra Leone,2015-02-01, Total,10 740,,3276
+169,Sierra Leone,2015-02-01, Confirmed,8059,,2910
+170,Sierra Leone,2015-02-01, Probable,287,,208
+171,Sierra Leone,2015-02-01, Confirmed,8059,262,2910
+172,Sierra Leone,2015-02-01, Suspected,2394,,158
+173,Sierra Leone,2015-02-01, Probable,287,Not reported,208
+174,Sierra Leone,2015-02-01, Suspected,2394,Not reported,158
+175,Sierra Leone,2015-02-01, Total,10 740,262,3276
+176,Sierra Leone,2015-02-02, Confirmed,8063,,2920
+177,Sierra Leone,2015-02-02, Suspected,2406,,158
+178,Sierra Leone,2015-02-02, Total,10 756,,3286
+179,Sierra Leone,2015-02-02, Probable,287,,208
+180,Sierra Leone,2015-02-03, Probable,287,,208
+181,Sierra Leone,2015-02-03, Total,10 792,,3301
+182,Sierra Leone,2015-02-03, Confirmed,8084,,2935
+183,Sierra Leone,2015-02-03, Suspected,2421,,158
+184,Sierra Leone,2015-02-07, Total,10 905,,3336
+185,Sierra Leone,2015-02-07, Confirmed,8122,,2970
+186,Sierra Leone,2015-02-07, Probable,287,,208
+187,Sierra Leone,2015-02-07, Suspected,2496,,158
+188,Sierra Leone,2015-02-08, Confirmed,8135,,2975
+189,Sierra Leone,2015-02-08, Confirmed,8135,221,2975
+190,Sierra Leone,2015-02-08, Probable,287,Not reported,208
+191,Sierra Leone,2015-02-08, Suspected,2512,Not reported,158
+192,Sierra Leone,2015-02-08, Total,10 934,221,3341
+193,Sierra Leone,2015-02-08, Suspected,2512,,158
+194,Sierra Leone,2015-02-08, Total,10 934,,3341
+195,Sierra Leone,2015-02-08, Probable,287,,208
+196,Sierra Leone,2015-02-09, Probable,287,,208
+197,Sierra Leone,2015-02-09, Suspected,2529,,158
+198,Sierra Leone,2015-02-09, Total,10 954,,3350
+199,Sierra Leone,2015-02-09, Confirmed,8138,,2984
+200,Sierra Leone,2015-02-10, Total,10 987,,3363
+201,Sierra Leone,2015-02-10, Confirmed,8155,,2997
+202,Sierra Leone,2015-02-10, Suspected,2545,,158
+203,Sierra Leone,2015-02-10, Probable,287,,208
+204,Sierra Leone,2015-02-14, Total,11 074,,3401
+205,Sierra Leone,2015-02-14, Confirmed,8199,,3035
+206,Sierra Leone,2015-02-14, Probable,287,,208
+207,Sierra Leone,2015-02-14, Suspected,2588,,158
+208,Sierra Leone,2015-02-15, Total,11 103,230,3408
+209,Sierra Leone,2015-02-15, Suspected,2604,Not reported,158
+210,Sierra Leone,2015-02-15, Probable,287,Not reported,208
+211,Sierra Leone,2015-02-15, Confirmed,8212,230,3042
+212,Sierra Leone,2015-02-15, Confirmed,8212,,3042
+213,Sierra Leone,2015-02-15, Total,11 103,,3408
+214,Sierra Leone,2015-02-15, Probable,287,,208
+215,Sierra Leone,2015-02-15, Suspected,2604,,158
+216,Sierra Leone,2015-02-17, Suspected,2645,,158
+217,Sierra Leone,2015-02-17, Probable,287,,208
+218,Sierra Leone,2015-02-17, Suspected,2645,,158
+219,Sierra Leone,2015-02-17, Confirmed,8223,,3057
+220,Sierra Leone,2015-02-17, Total,11 155,,3423
+221,Sierra Leone,2015-02-17, Confirmed,8223,,3057
+222,Sierra Leone,2015-02-17, Probable,287,,208
+223,Sierra Leone,2015-02-17, Total,11 155,,3423
+224,Sierra Leone,2015-02-17, Probable,287,,208
+225,Sierra Leone,2015-02-17, Total,11 155,,3423
+226,Sierra Leone,2015-02-17, Confirmed,8223,,3057
+227,Sierra Leone,2015-02-17, Suspected,2645,,158
+228,Sierra Leone,2015-02-22, Suspected,2725,Not reported,158
+229,Sierra Leone,2015-02-22, Total,11 301,235,3461
+230,Sierra Leone,2015-02-22, Confirmed,8289,235,3095
+231,Sierra Leone,2015-02-22, Probable,287,Not reported,208
+232,Sierra Leone,2015-02-24, Confirmed,8308,,3113
+233,Sierra Leone,2015-02-24, Probable,287,,208
+234,Sierra Leone,2015-02-24, Suspected,2746,,158
+235,Sierra Leone,2015-02-24, Total,11 341,,3479
+236,Sierra Leone,2015-02-25, Total,11 370,,3490
+237,Sierra Leone,2015-02-25, Suspected,2763,,158
+238,Sierra Leone,2015-02-25, Probable,287,,208
+239,Sierra Leone,2015-02-25, Confirmed,8320,,3124
+240,Sierra Leone,2015-02-28, Total,11 443,,3530
+241,Sierra Leone,2015-02-28, Confirmed,8353,,3164
+242,Sierra Leone,2015-02-28, Probable,287,,208
+243,Sierra Leone,2015-02-28, Suspected,2803,,158
+244,Sierra Leone,2015-03-01, Total,11 466,240,3546
+245,Sierra Leone,2015-03-01, Probable,287,Not reported,208
+246,Sierra Leone,2015-03-01, Confirmed,8370,240,3180
+247,Sierra Leone,2015-03-01, Suspected,2809,Not reported,158
+248,Sierra Leone,2015-03-03, Total,11 497,,3565
+249,Sierra Leone,2015-03-03, Suspected,2827,,158
+250,Sierra Leone,2015-03-03, Probable,287,,208
+251,Sierra Leone,2015-03-03, Confirmed,8383,,3199
+252,Sierra Leone,2015-03-04, Total,11 517,,3576
+253,Sierra Leone,2015-03-04, Suspected,2841,,158
+254,Sierra Leone,2015-03-04, Probable,287,,208
+255,Sierra Leone,2015-03-04, Confirmed,8389,,3210
+256,Sierra Leone,2015-03-07, Total,11 586,,3611
+257,Sierra Leone,2015-03-07, Probable,287,,208
+258,Sierra Leone,2015-03-07, Confirmed,8416,,3245
+259,Sierra Leone,2015-03-07, Suspected,2883,,158
+260,Sierra Leone,2015-03-08, Suspected,2904,Not reported,158
+261,Sierra Leone,2015-03-08, Confirmed,8428,202,3263
+262,Sierra Leone,2015-03-08, Total,11 619,,3629
+263,Sierra Leone,2015-03-08, Suspected,2904,,158
+264,Sierra Leone,2015-03-08, Total,11 619,202,3629
+265,Sierra Leone,2015-03-08, Probable,287,,208
+266,Sierra Leone,2015-03-08, Probable,287,Not reported,208
+267,Sierra Leone,2015-03-08, Confirmed,8428,,3263
+268,Sierra Leone,2015-03-10, Total,11 677,,3655
+269,Sierra Leone,2015-03-10, Suspected,2927,,158
+270,Sierra Leone,2015-03-10, Confirmed,8463,,3289
+271,Sierra Leone,2015-03-10, Probable,287,,208
+272,Sierra Leone,2015-03-11, Probable,287,,208
+273,Sierra Leone,2015-03-11, Confirmed,8469,,3297
+274,Sierra Leone,2015-03-11, Total,11 696,,3663
+275,Sierra Leone,2015-03-11, Suspected,2940,,158
+276,Sierra Leone,2015-03-14, Suspected,2971,,158
+277,Sierra Leone,2015-03-14, Probable,287,,208
+278,Sierra Leone,2015-03-14, Total,11 742,,3687
+279,Sierra Leone,2015-03-14, Confirmed,8484,,3321
+280,Sierra Leone,2015-03-15, Total,11 751,194,3691
+281,Sierra Leone,2015-03-15, Suspected,2977,Not reported,158
+282,Sierra Leone,2015-03-15, Suspected,2977,,158
+283,Sierra Leone,2015-03-15, Probable,287,,208
+284,Sierra Leone,2015-03-15, Total,11 751,,3691
+285,Sierra Leone,2015-03-15, Probable,287,Not reported,208
+286,Sierra Leone,2015-03-15, Confirmed,8487,,3325
+287,Sierra Leone,2015-03-15, Confirmed,8487,194,3325
+288,Sierra Leone,2015-03-17, Confirmed,8502,,3336
+289,Sierra Leone,2015-03-17, Total,11 779,,3702
+290,Sierra Leone,2015-03-17, Probable,287,,208
+291,Sierra Leone,2015-03-17, Suspected,2990,,158
+292,Sierra Leone,2015-03-18, Probable,287,,208
+293,Sierra Leone,2015-03-18, Confirmed,8508,,3346
+294,Sierra Leone,2015-03-18, Suspected,2999,,158
+295,Sierra Leone,2015-03-18, Total,11 794,,3712
+296,Sierra Leone,2015-03-21, Total,11 829,,3742
+297,Sierra Leone,2015-03-21, Suspected,3024,,158
+298,Sierra Leone,2015-03-21, Probable,287,,208
+299,Sierra Leone,2015-03-21, Confirmed,8518,,3376
+300,Sierra Leone,2015-03-22, Suspected,3034,Not reported,158
+301,Sierra Leone,2015-03-22, Confirmed,8520,,3381
+302,Sierra Leone,2015-03-22, Probable,287,,208
+303,Sierra Leone,2015-03-22, Suspected,3034,,158
+304,Sierra Leone,2015-03-22, Confirmed,8520,146,3381
+305,Sierra Leone,2015-03-22, Probable,287,Not reported,208
+306,Sierra Leone,2015-03-22, Total,11 841,,3747
+307,Sierra Leone,2015-03-22, Total,11 841,146,3747
+308,Sierra Leone,2015-03-24, Probable,287,,208
+309,Sierra Leone,2015-03-24, Suspected,3050,,158
+310,Sierra Leone,2015-03-24, Total,11 866,,3764
+311,Sierra Leone,2015-03-24, Confirmed,8529,,3398
+312,Sierra Leone,2015-03-25, Total,11 889,,3773
+313,Sierra Leone,2015-03-25, Suspected,3070,,158
+314,Sierra Leone,2015-03-25, Probable,287,,208
+315,Sierra Leone,2015-03-25, Confirmed,8532,,3407
+316,Sierra Leone,2015-03-28, Confirmed,8541,,3426
+317,Sierra Leone,2015-03-28, Probable,287,,208
+318,Sierra Leone,2015-03-28, Suspected,3115,,158
+319,Sierra Leone,2015-03-28, Total,11 943,,3792
+320,Sierra Leone,2015-03-29, Probable,287,,208
+321,Sierra Leone,2015-03-29, Suspected,3142,,158
+322,Sierra Leone,2015-03-29, Total,11 974,,3799
+323,Sierra Leone,2015-03-29, Confirmed,8545,113,3433
+324,Sierra Leone,2015-03-29, Probable,287,Not reported,208
+325,Sierra Leone,2015-03-29, Suspected,3142,Not reported,158
+326,Sierra Leone,2015-03-29, Confirmed,8545,,3433
+327,Sierra Leone,2015-03-29, Total,11 974,113,3799
+328,Sierra Leone,2015-03-31, Probable,287,,208
+329,Sierra Leone,2015-03-31, Suspected,3188,,158
+330,Sierra Leone,2015-03-31, Total,12 022,,3810
+331,Sierra Leone,2015-03-31, Confirmed,8547,,3444
+332,Sierra Leone,2015-04-05, Total,12 139,,3832
+333,Sierra Leone,2015-04-05, Suspected,3297,Not reported.,158
+334,Sierra Leone,2015-04-05, Suspected,3297,,158
+335,Sierra Leone,2015-04-05, Confirmed,8555,,3466
+336,Sierra Leone,2015-04-05, Probable,287,,208
+337,Sierra Leone,2015-04-05, Total,12 138,67,3831
+338,Sierra Leone,2015-04-05, Confirmed,8554,67,3465
+339,Sierra Leone,2015-04-05, Probable,287,Not reported.,208
+340,Sierra Leone,2015-04-07, Total,12 155,,3841
+341,Sierra Leone,2015-04-07, Confirmed,8558,,3475
+342,Sierra Leone,2015-04-07, Probable,287,,208
+343,Sierra Leone,2015-04-07, Suspected,3310,,158
+344,Sierra Leone,2015-04-08, Confirmed,8559,,3476
+345,Sierra Leone,2015-04-08, Probable,287,,208
+346,Sierra Leone,2015-04-08, Suspected,3324,,158
+347,Sierra Leone,2015-04-08, Total,12 170,,3842
+348,Sierra Leone,2015-04-10, Total,12 188,,3854
+349,Sierra Leone,2015-04-10, Probable,287,,208
+350,Sierra Leone,2015-04-10, Suspected,3341,,158
+351,Sierra Leone,2015-04-10, Confirmed,8560,,3488
+352,Sierra Leone,2015-04-12, Probable,287,Not reported.,208
+353,Sierra Leone,2015-04-12, Suspected,3351,,158
+354,Sierra Leone,2015-04-12, Confirmed,8563,43,3491
+355,Sierra Leone,2015-04-12, Probable,287,,208
+356,Sierra Leone,2015-04-12, Confirmed,8563,,3491
+357,Sierra Leone,2015-04-12, Total,12 201,43,3857
+358,Sierra Leone,2015-04-12, Total,12 201,,3857
+359,Sierra Leone,2015-04-12, Suspected,3351,Not reported.,158
+360,Sierra Leone,2015-04-14, Total,12 223,,3865
+361,Sierra Leone,2015-04-14, Confirmed,8566,,3499
+362,Sierra Leone,2015-04-14, Suspected,3370,,158
+363,Sierra Leone,2015-04-14, Probable,287,,208
+364,Sierra Leone,2015-04-15, Probable,287,,208
+365,Sierra Leone,2015-04-15, Total,12 244,,3865
+366,Sierra Leone,2015-04-15, Confirmed,8569,,3499
+367,Sierra Leone,2015-04-15, Suspected,3388,,158
+368,Sierra Leone,2015-04-17, Total,12 256,,3872
+369,Sierra Leone,2015-04-17, Confirmed,8572,,3506
+370,Sierra Leone,2015-04-17, Probable,287,,208
+371,Sierra Leone,2015-04-17, Suspected,3397,,158
+372,Sierra Leone,2015-04-19, Total,12 265,,3877
+373,Sierra Leone,2015-04-19, Suspected,3405,,158
+374,Sierra Leone,2015-04-19, Probable,287,Not reported.,208
+375,Sierra Leone,2015-04-19, Confirmed,8575,30,3511
+376,Sierra Leone,2015-04-19, Confirmed,8573,,3511
+377,Sierra Leone,2015-04-19, Probable,287,,208
+378,Sierra Leone,2015-04-19, Suspected,3405,Not reported.,158
+379,Sierra Leone,2015-04-19, Total,12 267,30,3877
+380,Sierra Leone,2015-04-21, Total,12 294,,3885
+381,Sierra Leone,2015-04-21, Confirmed,8581,,3519
+382,Sierra Leone,2015-04-21, Suspected,3426,,158
+383,Sierra Leone,2015-04-21, Probable,287,,208
+384,Sierra Leone,2015-04-22, Confirmed,8584,,3520
+385,Sierra Leone,2015-04-22, Probable,287,,208
+386,Sierra Leone,2015-04-22, Total,12 313,,3886
+387,Sierra Leone,2015-04-22, Suspected,3442,,158
+388,Sierra Leone,2015-04-25, Confirmed,8585,,3529
+389,Sierra Leone,2015-04-25, Probable,287,,208
+390,Sierra Leone,2015-04-25, Suspected,3490,,158
+391,Sierra Leone,2015-04-25, Total,12 362,,3895
+392,Sierra Leone,2015-04-26, Confirmed,8586,,3533
+393,Sierra Leone,2015-04-26, Probable,287,,208
+394,Sierra Leone,2015-04-26, Suspected,3498,,158
+395,Sierra Leone,2015-04-26, Total,12 371,,3899
+396,Sierra Leone,2015-04-26, Suspected,3498,Not reported.,158
+397,Sierra Leone,2015-04-26, Total,12 371,32,3899
+398,Sierra Leone,2015-04-26, Confirmed,8586,32,3533
+399,Sierra Leone,2015-04-26, Probable,287,Not reported.,208
+400,Sierra Leone,2015-04-28, Confirmed,8588,,3535
+401,Sierra Leone,2015-04-28, Total,12 387,,3901
+402,Sierra Leone,2015-04-28, Suspected,3512,,158
+403,Sierra Leone,2015-04-28, Probable,287,,208
+404,Sierra Leone,2015-04-29, Confirmed,8590,,3535
+405,Sierra Leone,2015-04-29, Probable,287,,208
+406,Sierra Leone,2015-04-29, Suspected,3521,,158
+407,Sierra Leone,2015-04-29, Total,12 398,,3901
+408,Sierra Leone,2015-05-02, Probable,287,,208
+409,Sierra Leone,2015-05-02, Total,12 426,,3902
+410,Sierra Leone,2015-05-02, Suspected,3547,,158
+411,Sierra Leone,2015-05-02, Confirmed,8592,,3536
+412,Sierra Leone,2015-05-03, Total,12 440,,3903
+413,Sierra Leone,2015-05-03, Confirmed,8595,32,3537
+414,Sierra Leone,2015-05-03, Probable,287,Not reported.,208
+415,Sierra Leone,2015-05-03, Confirmed,8595,,3537
+416,Sierra Leone,2015-05-03, Suspected,3558,Not reported.,158
+417,Sierra Leone,2015-05-03, Total,12 440,32,3903
+418,Sierra Leone,2015-05-03, Suspected,3558,,158
+419,Sierra Leone,2015-05-03, Probable,287,,208
+420,Sierra Leone,2015-05-05, Total,12 470,,3904
+421,Sierra Leone,2015-05-05, Suspected,3586,,158
+422,Sierra Leone,2015-05-05, Probable,287,,208
+423,Sierra Leone,2015-05-05, Confirmed,8597,,3538
+424,Sierra Leone,2015-05-06, Suspected,3608,,158
+425,Sierra Leone,2015-05-06, Confirmed,8597,,3538
+426,Sierra Leone,2015-05-06, Total,12 492,,3904
+427,Sierra Leone,2015-05-06, Probable,287,,208
+428,Sierra Leone,2015-05-09, Confirmed,8597,,3538
+429,Sierra Leone,2015-05-09, Suspected,3635,,158
+430,Sierra Leone,2015-05-09, Total,12 519,,3904
+431,Sierra Leone,2015-05-09, Probable,287,,208
+432,Sierra Leone,2015-05-10, Probable,287,,208
+433,Sierra Leone,2015-05-10, Total,12 523,22,3904
+434,Sierra Leone,2015-05-10, Confirmed,8597,,3538
+435,Sierra Leone,2015-05-10, Suspected,3639,,158
+436,Sierra Leone,2015-05-10, Total,12 523,,3904
+437,Sierra Leone,2015-05-10, Suspected,3639,Not reported.,158
+438,Sierra Leone,2015-05-10, Probable,287,Not reported.,208
+439,Sierra Leone,2015-05-10, Confirmed,8597,22,3538
+440,Sierra Leone,2015-05-12, Confirmed,8597,,3538
+441,Sierra Leone,2015-05-12, Total,12 536,,3904
+442,Sierra Leone,2015-05-12, Suspected,3652,,158
+443,Sierra Leone,2015-05-12, Probable,287,,208
+444,Sierra Leone,2015-05-13, Confirmed,8598,,3538
+445,Sierra Leone,2015-05-13, Suspected,3655,,158
+446,Sierra Leone,2015-05-13, Probable,287,,208
+447,Sierra Leone,2015-05-13, Total,12 540,,3904
+448,Sierra Leone,2015-05-16, Total,12 593,,3906
+449,Sierra Leone,2015-05-16, Confirmed,8603,,3540
+450,Sierra Leone,2015-05-16, Suspected,3703,,158
+451,Sierra Leone,2015-05-16, Probable,287,,208
+452,Sierra Leone,2015-05-17, Suspected,3740,Not reported.,158
+453,Sierra Leone,2015-05-17, Confirmed,8605,,3541
+454,Sierra Leone,2015-05-17, Probable,287,,208
+455,Sierra Leone,2015-05-17, Suspected,3740,,158
+456,Sierra Leone,2015-05-17, Confirmed,8605,19,3541
+457,Sierra Leone,2015-05-17, Probable,287,Not reported.,208
+458,Sierra Leone,2015-05-17, Total,12 632,,3907
+459,Sierra Leone,2015-05-17, Total,12 632,19,3907
+460,Sierra Leone,2015-05-19, Probable,287,,208
+461,Sierra Leone,2015-05-19, Total,12 656,,3907
+462,Sierra Leone,2015-05-19, Confirmed,8607,,3541
+463,Sierra Leone,2015-05-19, Suspected,3762,,158
+464,Sierra Leone,2015-05-20, Confirmed,8608,,3541
+465,Sierra Leone,2015-05-20, Probable,287,,208
+466,Sierra Leone,2015-05-20, Total,12 666,,3907
+467,Sierra Leone,2015-05-20, Suspected,3771,,158
+468,Sierra Leone,2015-05-23, Suspected,3801,,158
+469,Sierra Leone,2015-05-23, Probable,287,,208
+470,Sierra Leone,2015-05-23, Confirmed,8608,,3542
+471,Sierra Leone,2015-05-23, Total,12 696,,3908
+472,Sierra Leone,2015-05-24, Probable,287,,208
+473,Sierra Leone,2015-05-24, Confirmed,8608,,3542
+474,Sierra Leone,2015-05-24, Probable,287,Not reported.,208
+475,Sierra Leone,2015-05-24, Suspected,3811,,158
+476,Sierra Leone,2015-05-24, Total,12 706,,3908
+477,Sierra Leone,2015-05-24, Confirmed,8608,13,3542
+478,Sierra Leone,2015-05-24, Total,12 706,13,3908
+479,Sierra Leone,2015-05-24, Suspected,3811,Not reported.,158
+480,Sierra Leone,2015-05-26, Confirmed,8611,,3545
+481,Sierra Leone,2015-05-26, Probable,287,,208
+482,Sierra Leone,2015-05-26, Total,12 735,,3911
+483,Sierra Leone,2015-05-26, Suspected,3837,,158
+484,Sierra Leone,2015-05-27, Total,12 745,,3911
+485,Sierra Leone,2015-05-27, Suspected,3844,,158
+486,Sierra Leone,2015-05-27, Probable,287,,208
+487,Sierra Leone,2015-05-27, Confirmed,8614,,3545
+488,Sierra Leone,2015-05-30, Probable,287,,208
+489,Sierra Leone,2015-05-30, Total,12 816,,3911
+490,Sierra Leone,2015-05-30, Suspected,3911,,158
+491,Sierra Leone,2015-05-30, Confirmed,8618,,3545
+492,Sierra Leone,2015-05-31, Probable,287,,208
+493,Sierra Leone,2015-05-31, Suspected,3920,,158
+494,Sierra Leone,2015-05-31, Confirmed,8620,23,3546
+495,Sierra Leone,2015-05-31, Total,12 827,,3912
+496,Sierra Leone,2015-05-31, Probable,287,Not reported.,208
+497,Sierra Leone,2015-05-31, Suspected,3920,Not reported.,158
+498,Sierra Leone,2015-05-31, Total,12 827,23,3912
+499,Sierra Leone,2015-05-31, Confirmed,8620,,3546
+500,Sierra Leone,2015-06-02, Total,12 850,,3912
+501,Sierra Leone,2015-06-02, Suspected,3940,,158
+502,Sierra Leone,2015-06-02, Probable,287,,208
+503,Sierra Leone,2015-06-02, Confirmed,8623,,3546
+504,Sierra Leone,2015-06-03, Probable,287,,208
+505,Sierra Leone,2015-06-03, Total,12 859,,3912
+506,Sierra Leone,2015-06-03, Confirmed,8624,,3546
+507,Sierra Leone,2015-06-03, Suspected,3948,,158
+508,Sierra Leone,2015-06-06, Total,12 884,,3913
+509,Sierra Leone,2015-06-06, Suspected,3967,,158
+510,Sierra Leone,2015-06-06, Probable,287,,208
+511,Sierra Leone,2015-06-06, Confirmed,8630,,3547
+512,Sierra Leone,2015-06-07, Total,12 901,,3915
+513,Sierra Leone,2015-06-07, Total,12 901,30,3915
+514,Sierra Leone,2015-06-07, Suspected,3979,Not reported.,158
+515,Sierra Leone,2015-06-07, Confirmed,8635,,3549
+516,Sierra Leone,2015-06-07, Probable,287,,208
+517,Sierra Leone,2015-06-07, Confirmed,8635,30,3549
+518,Sierra Leone,2015-06-07, Probable,287,Not reported.,208
+519,Sierra Leone,2015-06-07, Suspected,3979,,158
+520,Sierra Leone,2015-06-09, Confirmed,8638,,3551
+521,Sierra Leone,2015-06-09, Probable,287,,208
+522,Sierra Leone,2015-06-09, Suspected,3986,,158
+523,Sierra Leone,2015-06-09, Total,12 911,,3917
+524,Sierra Leone,2015-06-10, Probable,287,,208
+525,Sierra Leone,2015-06-10, Suspected,3998,,158
+526,Sierra Leone,2015-06-10, Total,12 932,,3917
+527,Sierra Leone,2015-06-10, Confirmed,8647,,3551
+528,Sierra Leone,2015-06-13, Confirmed,8649,,3553
+529,Sierra Leone,2015-06-13, Total,12 962,,3919
+530,Sierra Leone,2015-06-13, Suspected,4026,,158
+531,Sierra Leone,2015-06-13, Probable,287,,208
+532,Sierra Leone,2015-06-14, Suspected,4029,Not reported.,158
+533,Sierra Leone,2015-06-14, Suspected,4029,,158
+534,Sierra Leone,2015-06-14, Total,12 965,,3919
+535,Sierra Leone,2015-06-14, Probable,287,,208
+536,Sierra Leone,2015-06-14, Confirmed,8649,41,3553
+537,Sierra Leone,2015-06-14, Confirmed,8649,,3553
+538,Sierra Leone,2015-06-14, Total,12 965,41,3919
+539,Sierra Leone,2015-06-14, Probable,287,Not reported.,208
+540,Sierra Leone,2015-06-16, Suspected,4052,,158
+541,Sierra Leone,2015-06-16, Probable,287,,208
+542,Sierra Leone,2015-06-16, Total,12 990,,3922
+543,Sierra Leone,2015-06-16, Confirmed,8651,,3556
+544,Sierra Leone,2015-06-17, Total,13 012,,3926
+545,Sierra Leone,2015-06-17, Suspected,4071,,158
+546,Sierra Leone,2015-06-17, Probable,287,,208
+547,Sierra Leone,2015-06-17, Confirmed,8654,,3560
+548,Sierra Leone,2015-06-20, Confirmed,8657,,3562
+549,Sierra Leone,2015-06-20, Probable,287,,208
+550,Sierra Leone,2015-06-20, Suspected,4107,,158
+551,Sierra Leone,2015-06-20, Total,13 051,,3928
+552,Sierra Leone,2015-06-21, Confirmed,8657,37,3562
+553,Sierra Leone,2015-06-21, Probable,287,Not reported.,208
+554,Sierra Leone,2015-06-21, Total,13 059,37,3928
+555,Sierra Leone,2015-06-21, Suspected,4115,Not reported.,158
+556,Sierra Leone,2015-06-21, Total,13 059,,3928
+557,Sierra Leone,2015-06-21, Suspected,4115,,158
+558,Sierra Leone,2015-06-21, Confirmed,8657,,3562
+559,Sierra Leone,2015-06-21, Probable,287,,208
+560,Sierra Leone,2015-06-23, Confirmed,8660,,3565
+561,Sierra Leone,2015-06-23, Probable,287,,208
+562,Sierra Leone,2015-06-23, Suspected,4136,,158
+563,Sierra Leone,2015-06-23, Total,13 083,,3931
+564,Sierra Leone,2015-06-24, Confirmed,8662,,3565
+565,Sierra Leone,2015-06-24, Probable,287,,208
+566,Sierra Leone,2015-06-24, Suspected,4144,,158
+567,Sierra Leone,2015-06-24, Total,13 093,,3931
+568,Sierra Leone,2015-06-27, Confirmed,8664,,3566
+569,Sierra Leone,2015-06-27, Suspected,4164,,158
+570,Sierra Leone,2015-06-27, Total,13 115,,3932
+571,Sierra Leone,2015-06-27, Probable,287,,208
+572,Sierra Leone,2015-06-28, Confirmed,8665,,3566
+573,Sierra Leone,2015-06-28, Suspected,4167,,158
+574,Sierra Leone,2015-06-28, Probable,287,Not reported.,208
+575,Sierra Leone,2015-06-28, Total,13 119,,3932
+576,Sierra Leone,2015-06-28, Confirmed,8665,30,3566
+577,Sierra Leone,2015-06-28, Probable,287,,208
+578,Sierra Leone,2015-06-28, Total,13 119,30,3932
+579,Sierra Leone,2015-06-28, Suspected,4167,Not reported.,158
+580,Sierra Leone,2015-06-30, Total,13 129,,3933
+581,Sierra Leone,2015-06-30, Suspected,4174,,158
+582,Sierra Leone,2015-06-30, Confirmed,8668,,3567
+583,Sierra Leone,2015-06-30, Probable,287,,208
+584,Sierra Leone,2015-07-01, Confirmed,8671,,3569
+585,Sierra Leone,2015-07-01, Probable,287,,208
+586,Sierra Leone,2015-07-01, Suspected,4177,,158
+587,Sierra Leone,2015-07-01, Total,13 135,,3935
+588,Sierra Leone,2015-07-04, Suspected,4190,,158
+589,Sierra Leone,2015-07-04, Confirmed,8673,,3574
+590,Sierra Leone,2015-07-04, Probable,287,,208
+591,Sierra Leone,2015-07-04, Total,13 150,,3940
+592,Sierra Leone,2015-07-05, Suspected,4194,,158
+593,Sierra Leone,2015-07-05, Confirmed,8674,25,3574
+594,Sierra Leone,2015-07-05, Probable,287,Not reported.,208
+595,Sierra Leone,2015-07-05, Suspected,4194,Not reported.,158
+596,Sierra Leone,2015-07-05, Total,13 155,25,3940
+597,Sierra Leone,2015-07-05, Total,13 155,,3940
+598,Sierra Leone,2015-07-05, Confirmed,8674,,3574
+599,Sierra Leone,2015-07-05, Probable,287,,208
+600,Sierra Leone,2015-07-07, Total,13 169,,3941
+601,Sierra Leone,2015-07-07, Suspected,4207,,158
+602,Sierra Leone,2015-07-07, Probable,287,,208
+603,Sierra Leone,2015-07-07, Confirmed,8675,,3575
+604,Sierra Leone,2015-07-08, Total,13 177,,3941
+605,Sierra Leone,2015-07-08, Suspected,4214,,158
+606,Sierra Leone,2015-07-08, Probable,287,,208
+607,Sierra Leone,2015-07-08, Confirmed,8676,,3575
+608,Sierra Leone,2015-07-11, Total,13 201,,3946
+609,Sierra Leone,2015-07-11, Suspected,4227,,158
+610,Sierra Leone,2015-07-11, Probable,287,,208
+611,Sierra Leone,2015-07-11, Confirmed,8687,,3580
+612,Sierra Leone,2015-07-12, Probable,287,,208
+613,Sierra Leone,2015-07-12, Suspected,4234,,158
+614,Sierra Leone,2015-07-12, Total,13 209,,3947
+615,Sierra Leone,2015-07-12, Suspected,4234,,158
+616,Sierra Leone,2015-07-12, Total,13 209,,3947
+617,Sierra Leone,2015-07-12, Total,13 209,31,3947
+618,Sierra Leone,2015-07-12, Confirmed,8688,,3581
+619,Sierra Leone,2015-07-12, Probable,287,Not reported.,208
+620,Sierra Leone,2015-07-12, Total,13 209,,3947
+621,Sierra Leone,2015-07-12, Confirmed,8688,31,3581
+622,Sierra Leone,2015-07-12, Confirmed,8688,,3581
+623,Sierra Leone,2015-07-12, Confirmed,8688,,3581
+624,Sierra Leone,2015-07-12, Probable,287,,208
+625,Sierra Leone,2015-07-12, Suspected,4234,,158
+626,Sierra Leone,2015-07-12, Suspected,4234,Not reported.,158
+627,Sierra Leone,2015-07-12, Probable,287,,208
+628,Sierra Leone,2015-07-18, Total,13 241,,3949
+629,Sierra Leone,2015-07-18, Suspected,4262,,158
+630,Sierra Leone,2015-07-18, Confirmed,8692,,3583
+631,Sierra Leone,2015-07-18, Probable,287,,208
+632,Sierra Leone,2015-07-19, Total,13 249,26,3949
+633,Sierra Leone,2015-07-19, Confirmed,8692,,3583
+634,Sierra Leone,2015-07-19, Probable,287,Not reported.,208
+635,Sierra Leone,2015-07-19, Probable,287,,208
+636,Sierra Leone,2015-07-19, Suspected,4271,,158
+637,Sierra Leone,2015-07-19, Total,13 250,,3949
+638,Sierra Leone,2015-07-19, Confirmed,8691,26,3583
+639,Sierra Leone,2015-07-19, Suspected,4271,Not reported.,158
+640,Sierra Leone,2015-07-21, Confirmed,8693,,3583
+641,Sierra Leone,2015-07-21, Probable,287,,208
+642,Sierra Leone,2015-07-21, Suspected,4282,,158
+643,Sierra Leone,2015-07-21, Total,13 262,,3949
+644,Sierra Leone,2015-07-22, Total,13 264,,3949
+645,Sierra Leone,2015-07-22, Suspected,4284,,158
+646,Sierra Leone,2015-07-22, Probable,287,,208
+647,Sierra Leone,2015-07-22, Confirmed,8693,,3583
+648,Sierra Leone,2015-07-25, Total,13 283,,3951
+649,Sierra Leone,2015-07-25, Suspected,4302,,158
+650,Sierra Leone,2015-07-25, Probable,287,,208
+651,Sierra Leone,2015-07-25, Confirmed,8694,,3585
+652,Sierra Leone,2015-07-26, Total,13 290,,3951
+653,Sierra Leone,2015-07-26, Total,13 290,20,3951
+654,Sierra Leone,2015-07-26, Suspected,4309,,158
+655,Sierra Leone,2015-07-26, Probable,287,Not reported.,208
+656,Sierra Leone,2015-07-26, Confirmed,8694,20,3585
+657,Sierra Leone,2015-07-26, Confirmed,8694,,3585
+658,Sierra Leone,2015-07-26, Probable,287,,208
+659,Sierra Leone,2015-07-26, Suspected,4309,Not reported.,158
+660,Sierra Leone,2015-07-28, Suspected,4398,,158
+661,Sierra Leone,2015-07-28, Probable,287,,208
+662,Sierra Leone,2015-07-28, Confirmed,8694,,3585
+663,Sierra Leone,2015-07-28, Total,13 379,,3951
+664,Sierra Leone,2015-07-29, Total,13 387,,3951
+665,Sierra Leone,2015-07-29, Confirmed,8694,,3585
+666,Sierra Leone,2015-07-29, Suspected,4406,,158
+667,Sierra Leone,2015-07-29, Probable,287,,208
+668,Sierra Leone,2015-08-01, Suspected,4420,,158
+669,Sierra Leone,2015-08-01, Total,13 402,,3951
+670,Sierra Leone,2015-08-01, Confirmed,8695,,3585
+671,Sierra Leone,2015-08-01, Probable,287,,208
+672,Sierra Leone,2015-08-02, Total,13 406,7,3951
+673,Sierra Leone,2015-08-02, Probable,287,Not reported.,208
+674,Sierra Leone,2015-08-02, Confirmed,8695,7,3585
+675,Sierra Leone,2015-08-02, Suspected,4424,Not reported.,158
+676,Sierra Leone,2015-08-02, Total,13 406,,3951
+677,Sierra Leone,2015-08-02, Confirmed,8695,,3585
+678,Sierra Leone,2015-08-02, Probable,287,,208
+679,Sierra Leone,2015-08-02, Suspected,4424,,158
+680,Sierra Leone,2015-08-04, Suspected,4443,,158
+681,Sierra Leone,2015-08-04, Probable,287,,208
+682,Sierra Leone,2015-08-04, Total,13 426,,3951
+683,Sierra Leone,2015-08-04, Confirmed,8696,,3585
+684,Sierra Leone,2015-08-05, Suspected,4445,,158
+685,Sierra Leone,2015-08-05, Confirmed,8696,,3585
+686,Sierra Leone,2015-08-05, Total,13 428,,3951
+687,Sierra Leone,2015-08-05, Probable,287,,208
+688,Sierra Leone,2015-08-08, Probable,287,,208
+689,Sierra Leone,2015-08-08, Confirmed,8697,,3585
+690,Sierra Leone,2015-08-08, Total,13 465,,3951
+691,Sierra Leone,2015-08-08, Suspected,4481,,158
+692,Sierra Leone,2015-08-09, Confirmed,8697,6,3585
+693,Sierra Leone,2015-08-09, Suspected,4486,Not reported.,158
+694,Sierra Leone,2015-08-09, Probable,287,Not reported.,208
+695,Sierra Leone,2015-08-09, Confirmed,8697,,3585
+696,Sierra Leone,2015-08-09, Probable,287,,208
+697,Sierra Leone,2015-08-09, Total,13 470,6,3951
+698,Sierra Leone,2015-08-09, Suspected,4486,,158
+699,Sierra Leone,2015-08-09, Total,13 470,,3951
+700,Sierra Leone,2015-08-11, Confirmed,8697,,3585
+701,Sierra Leone,2015-08-11, Suspected,4500,,158
+702,Sierra Leone,2015-08-11, Probable,287,,208
+703,Sierra Leone,2015-08-11, Total,13 484,,3951
+704,Sierra Leone,2015-08-12, Probable,287,,208
+705,Sierra Leone,2015-08-12, Suspected,4501,,158
+706,Sierra Leone,2015-08-12, Total,13 485,,3952
+707,Sierra Leone,2015-08-12, Confirmed,8697,,3586
+708,Sierra Leone,2015-08-14, Confirmed,8697,,3586
+709,Sierra Leone,2015-08-14, Probable,287,,208
+710,Sierra Leone,2015-08-14, Suspected,4505,,158
+711,Sierra Leone,2015-08-14, Total,13 489,,3952
+712,Sierra Leone,2015-08-16, Total,13 494,,3952
+713,Sierra Leone,2015-08-16, Confirmed,8697,3,3586
+714,Sierra Leone,2015-08-16, Suspected,4510,Not reported.,158
+715,Sierra Leone,2015-08-16, Total,13 494,3,3952
+716,Sierra Leone,2015-08-16, Confirmed,8697,,3586
+717,Sierra Leone,2015-08-16, Probable,287,,208
+718,Sierra Leone,2015-08-16, Probable,287,Not reported.,208
+719,Sierra Leone,2015-08-16, Suspected,4510,,158
+720,Sierra Leone,2015-08-18, Total,13 518,,3952
+721,Sierra Leone,2015-08-18, Suspected,4534,,158
+722,Sierra Leone,2015-08-18, Probable,287,,208
+723,Sierra Leone,2015-08-18, Confirmed,8697,,3586
+724,Sierra Leone,2015-08-19, Probable,287,,208
+725,Sierra Leone,2015-08-19, Confirmed,8697,,3586
+726,Sierra Leone,2015-08-19, Suspected,4549,,158
+727,Sierra Leone,2015-08-19, Total,13 533,,3952
+728,Sierra Leone,2015-08-22, Total,13 538,,3952
+729,Sierra Leone,2015-08-22, Suspected,4554,,158
+730,Sierra Leone,2015-08-22, Confirmed,8697,,3586
+731,Sierra Leone,2015-08-22, Probable,287,,208
+732,Sierra Leone,2015-08-23, Total,13 541,1,3952
+733,Sierra Leone,2015-08-23, Suspected,4557,Not reported.,158
+734,Sierra Leone,2015-08-23, Probable,287,Not reported.,208
+735,Sierra Leone,2015-08-23, Confirmed,8697,1,3586
+736,Sierra Leone,2015-08-23, Suspected,4557,,158
+737,Sierra Leone,2015-08-23, Confirmed,8697,,3586
+738,Sierra Leone,2015-08-23, Total,13 541,,3952
+739,Sierra Leone,2015-08-23, Probable,287,,208
+740,Sierra Leone,2015-08-25, Confirmed,8697,,3586
+741,Sierra Leone,2015-08-25, Probable,287,,208
+742,Sierra Leone,2015-08-25, Suspected,4598,,158
+743,Sierra Leone,2015-08-25, Total,13 582,,3952
+744,Sierra Leone,2015-08-26, Total,13 586,,3952
+745,Sierra Leone,2015-08-26, Suspected,4602,,158
+746,Sierra Leone,2015-08-26, Confirmed,8697,,3586
+747,Sierra Leone,2015-08-26, Probable,287,,208
+748,Sierra Leone,2015-08-29, Confirmed,8698,,3587
+749,Sierra Leone,2015-08-29, Suspected,4618,,158
+750,Sierra Leone,2015-08-29, Total,13 603,,3953
+751,Sierra Leone,2015-08-29, Probable,287,,208
+752,Sierra Leone,2015-08-30, Probable,287,Not reported.,208
+753,Sierra Leone,2015-08-30, Suspected,4624,Not reported.,158
+754,Sierra Leone,2015-08-30, Total,13 609,1,3953
+755,Sierra Leone,2015-08-30, Confirmed,8698,,3587
+756,Sierra Leone,2015-08-30, Probable,287,,208
+757,Sierra Leone,2015-08-30, Suspected,4624,,158
+758,Sierra Leone,2015-08-30, Total,13 609,,3953
+759,Sierra Leone,2015-08-30, Confirmed,8698,1,3587
+760,Sierra Leone,2015-09-01, Probable,287,,208
+761,Sierra Leone,2015-09-01, Total,13 638,,3953
+762,Sierra Leone,2015-09-01, Confirmed,8698,,3587
+763,Sierra Leone,2015-09-01, Suspected,4653,,158
+764,Sierra Leone,2015-09-02, Confirmed,8698,,3587
+765,Sierra Leone,2015-09-02, Probable,287,,208
+766,Sierra Leone,2015-09-02, Suspected,4654,,158
+767,Sierra Leone,2015-09-02, Total,13 639,,3953
+768,Sierra Leone,2015-09-05, Confirmed,8699,,3587
+769,Sierra Leone,2015-09-05, Probable,287,,208
+770,Sierra Leone,2015-09-05, Total,13 670,,3953
+771,Sierra Leone,2015-09-05, Suspected,4684,,158
+772,Sierra Leone,2015-09-06, Confirmed,8699,2,3587
+773,Sierra Leone,2015-09-06, Probable,287,Not reported.,208
+774,Sierra Leone,2015-09-06, Suspected,4697,Not reported.,158
+775,Sierra Leone,2015-09-06, Total,13 683,,3953
+776,Sierra Leone,2015-09-06, Suspected,4697,,158
+777,Sierra Leone,2015-09-06, Probable,287,,208
+778,Sierra Leone,2015-09-06, Confirmed,8699,,3587
+779,Sierra Leone,2015-09-06, Total,13 683,2,3953
+780,Sierra Leone,2015-09-08, Probable,287,,208
+781,Sierra Leone,2015-09-08, Total,13 697,,3953
+782,Sierra Leone,2015-09-08, Confirmed,8702,,3587
+783,Sierra Leone,2015-09-08, Suspected,4708,,158
+784,Sierra Leone,2015-09-09, Confirmed,8703,,3587
+785,Sierra Leone,2015-09-09, Probable,287,,208
+786,Sierra Leone,2015-09-09, Total,13 701,,3953
+787,Sierra Leone,2015-09-09, Suspected,4711,,158
+788,Sierra Leone,2015-09-12, Probable,287,,208
+789,Sierra Leone,2015-09-12, Confirmed,8703,,3587
+790,Sierra Leone,2015-09-12, Suspected,4757,,158
+791,Sierra Leone,2015-09-12, Total,13 747,,3953
+792,Sierra Leone,2015-09-13, Total,13 756,,3953
+793,Sierra Leone,2015-09-13, Probable,287,,208
+794,Sierra Leone,2015-09-13, Suspected,4765,,158
+795,Sierra Leone,2015-09-13, Confirmed,8704,7,3587
+796,Sierra Leone,2015-09-13, Probable,287,Not reported.,208
+797,Sierra Leone,2015-09-13, Suspected,4765,Not reported.,158
+798,Sierra Leone,2015-09-13, Total,13 756,7,3953
+799,Sierra Leone,2015-09-13, Confirmed,8704,,3587
+800,Sierra Leone,2015-09-15, Total,13 779,,3955
+801,Sierra Leone,2015-09-15, Probable,287,,208
+802,Sierra Leone,2015-09-15, Confirmed,8704,,3589
+803,Sierra Leone,2015-09-15, Suspected,4788,,158
+804,Sierra Leone,2015-09-16, Probable,287,,208
+805,Sierra Leone,2015-09-16, Confirmed,8704,,3589
+806,Sierra Leone,2015-09-16, Total,13 785,,3955
+807,Sierra Leone,2015-09-16, Suspected,4794,,158
+808,Sierra Leone,2015-09-19, Total,13 811,,3955
+809,Sierra Leone,2015-09-19, Confirmed,8704,,3589
+810,Sierra Leone,2015-09-19, Probable,287,,208
+811,Sierra Leone,2015-09-19, Suspected,4820,,158
+812,Sierra Leone,2015-09-20, Confirmed,8704,6,3589
+813,Sierra Leone,2015-09-20, Probable,287,Not reported.,208
+814,Sierra Leone,2015-09-20, Total,13 823,,3955
+815,Sierra Leone,2015-09-20, Probable,287,,208
+816,Sierra Leone,2015-09-20, Total,13 823,6,3955
+817,Sierra Leone,2015-09-20, Confirmed,8704,,3589
+818,Sierra Leone,2015-09-20, Suspected,4832,Not reported.,158
+819,Sierra Leone,2015-09-20, Suspected,4832,,158
+820,Sierra Leone,2015-09-22, Confirmed,8704,,3589
+821,Sierra Leone,2015-09-22, Probable,287,,208
+822,Sierra Leone,2015-09-22, Suspected,4855,,158
+823,Sierra Leone,2015-09-22, Total,13 846,,3955
+824,Sierra Leone,2015-09-23, Confirmed,8704,,3589
+825,Sierra Leone,2015-09-23, Probable,287,,208
+826,Sierra Leone,2015-09-23, Suspected,4864,,158
+827,Sierra Leone,2015-09-23, Total,13 855,,3955
+828,Sierra Leone,2015-09-26, Total,13 894,,3955
+829,Sierra Leone,2015-09-26, Suspected,4903,,158
+830,Sierra Leone,2015-09-26, Probable,287,,208
+831,Sierra Leone,2015-09-26, Confirmed,8704,,3589
+832,Sierra Leone,2015-09-27, Probable,287,Not reported.,208
+833,Sierra Leone,2015-09-27, Suspected,4920,Not reported.,158
+834,Sierra Leone,2015-09-27, Probable,287,,208
+835,Sierra Leone,2015-09-27, Total,13 911,5,3955
+836,Sierra Leone,2015-09-27, Total,13 911,,3955
+837,Sierra Leone,2015-09-27, Confirmed,8704,5,3589
+838,Sierra Leone,2015-09-27, Confirmed,8704,,3589
+839,Sierra Leone,2015-09-27, Suspected,4920,,158
+840,Sierra Leone,2015-09-29, Confirmed,8704,,3589
+841,Sierra Leone,2015-09-29, Probable,287,,208
+842,Sierra Leone,2015-09-29, Suspected,4937,,158
+843,Sierra Leone,2015-09-29, Total,13 928,,3955
+844,Sierra Leone,2015-09-30, Total,13 931,,3955
+845,Sierra Leone,2015-09-30, Suspected,4940,,158
+846,Sierra Leone,2015-09-30, Probable,287,,208
+847,Sierra Leone,2015-09-30, Confirmed,8704,,3589
+848,Sierra Leone,2015-10-03, Probable,287,,208
+849,Sierra Leone,2015-10-03, Confirmed,8704,,3589
+850,Sierra Leone,2015-10-03, Suspected,4950,,158
+851,Sierra Leone,2015-10-03, Total,13 941,,3955
+852,Sierra Leone,2015-10-04, Probable,287,,208
+853,Sierra Leone,2015-10-04, Suspected,4954,,158
+854,Sierra Leone,2015-10-04, Total,13 945,,3955
+855,Sierra Leone,2015-10-04, Probable,287,Not reported.,208
+856,Sierra Leone,2015-10-04, Suspected,4954,Not reported.,158
+857,Sierra Leone,2015-10-04, Confirmed,8704,,3589
+858,Sierra Leone,2015-10-04, Total,13 945,0,3955
+859,Sierra Leone,2015-10-04, Confirmed,8704,0,3589
+860,Sierra Leone,2015-10-06, Probable,287,,208
+861,Sierra Leone,2015-10-06, Confirmed,8704,,3589
+862,Sierra Leone,2015-10-06, Total,13 956,,3955
+863,Sierra Leone,2015-10-06, Suspected,4965,,158
+864,Sierra Leone,2015-10-07, Suspected,4966,,158
+865,Sierra Leone,2015-10-07, Confirmed,8704,,3589
+866,Sierra Leone,2015-10-07, Total,13 957,,3955
+867,Sierra Leone,2015-10-07, Probable,287,,208
+868,Sierra Leone,2015-10-10, Confirmed,8704,,3589
+869,Sierra Leone,2015-10-10, Probable,287,,208
+870,Sierra Leone,2015-10-10, Total,13 978,,3955
+871,Sierra Leone,2015-10-10, Suspected,4987,,158
+872,Sierra Leone,2015-10-11, Confirmed,8704,0,3589
+873,Sierra Leone,2015-10-11, Confirmed,8704,,3589
+874,Sierra Leone,2015-10-11, Probable,287,,208
+875,Sierra Leone,2015-10-11, Suspected,4991,,158
+876,Sierra Leone,2015-10-11, Suspected,4991,Not reported.,158
+877,Sierra Leone,2015-10-11, Total,13 982,0,3955
+878,Sierra Leone,2015-10-11, Total,13 982,,3955
+879,Sierra Leone,2015-10-11, Probable,287,Not reported.,208
+880,Sierra Leone,2015-10-13, Probable,287,,208
+881,Sierra Leone,2015-10-13, Confirmed,8704,,3589
+882,Sierra Leone,2015-10-13, Suspected,5001,,158
+883,Sierra Leone,2015-10-13, Total,13 992,,3955
+884,Sierra Leone,2015-10-14, Probable,287,,208
+885,Sierra Leone,2015-10-14, Suspected,5001,,158
+886,Sierra Leone,2015-10-14, Total,13 992,,3955
+887,Sierra Leone,2015-10-14, Confirmed,8704,,3589
+888,Sierra Leone,2015-10-17, Total,13 999,,3955
+889,Sierra Leone,2015-10-17, Suspected,5008,,158
+890,Sierra Leone,2015-10-17, Probable,287,,208
+891,Sierra Leone,2015-10-17, Confirmed,8704,,3589
+892,Sierra Leone,2015-10-18, Probable,287,,208
+893,Sierra Leone,2015-10-18, Total,14 001,0,3955
+894,Sierra Leone,2015-10-18, Confirmed,8704,,3589
+895,Sierra Leone,2015-10-18, Suspected,5010,Not reported.,158
+896,Sierra Leone,2015-10-18, Suspected,5010,,158
+897,Sierra Leone,2015-10-18, Confirmed,8704,0,3589
+898,Sierra Leone,2015-10-18, Total,14 001,,3955
+899,Sierra Leone,2015-10-18, Probable,287,Not reported.,208
+900,Sierra Leone,2015-10-20, Confirmed,8704,,3589
+901,Sierra Leone,2015-10-20, Total,14 031,,3955
+902,Sierra Leone,2015-10-20, Probable,287,,208
+903,Sierra Leone,2015-10-20, Suspected,5040,,158
+904,Sierra Leone,2015-10-21, Total,14 038,,3955
+905,Sierra Leone,2015-10-21, Suspected,5047,,158
+906,Sierra Leone,2015-10-21, Probable,287,,208
+907,Sierra Leone,2015-10-21, Confirmed,8704,,3589
+908,Sierra Leone,2015-10-24, Confirmed,8704,,3589
+909,Sierra Leone,2015-10-24, Probable,287,,208
+910,Sierra Leone,2015-10-24, Total,14 052,,3955
+911,Sierra Leone,2015-10-24, Suspected,5061,,158
+912,Sierra Leone,2015-10-25, Confirmed,8704,0,3589
+913,Sierra Leone,2015-10-25, Probable,287,,208
+914,Sierra Leone,2015-10-25, Confirmed,8704,,3589
+915,Sierra Leone,2015-10-25, Total,14 061,0,3955
+916,Sierra Leone,2015-10-25, Suspected,5070,Not reported.,158
+917,Sierra Leone,2015-10-25, Probable,287,Not reported.,208
+918,Sierra Leone,2015-10-25, Total,14 061,,3955
+919,Sierra Leone,2015-10-25, Suspected,5070,,158
+920,Sierra Leone,2015-10-27, Total,14 066,,3955
+921,Sierra Leone,2015-10-27, Suspected,5075,,158
+922,Sierra Leone,2015-10-27, Probable,287,,208
+923,Sierra Leone,2015-10-27, Confirmed,8704,,3589
+924,Sierra Leone,2015-10-28, Confirmed,8704,,3589
+925,Sierra Leone,2015-10-28, Suspected,5076,,158
+926,Sierra Leone,2015-10-28, Probable,287,,208
+927,Sierra Leone,2015-10-28, Total,14 067,,3955
+928,Sierra Leone,2015-10-31, Probable,287,,208
+929,Sierra Leone,2015-10-31, Confirmed,8704,,3589
+930,Sierra Leone,2015-10-31, Suspected,5087,,158
+931,Sierra Leone,2015-10-31, Total,14 078,,3955
+932,Sierra Leone,2015-11-01, Total,14 089,,3955
+933,Sierra Leone,2015-11-01, Confirmed,8704,,3589
+934,Sierra Leone,2015-11-01, Total,14 089,0,3955
+935,Sierra Leone,2015-11-01, Suspected,5098,,158
+936,Sierra Leone,2015-11-01, Probable,287,,208
+937,Sierra Leone,2015-11-01, Suspected,5098,Not reported.,158
+938,Sierra Leone,2015-11-01, Probable,287,Not reported.,208
+939,Sierra Leone,2015-11-01, Confirmed,8704,0,3589
+940,Sierra Leone,2015-11-03, Suspected,5113,,158
+941,Sierra Leone,2015-11-03, Confirmed,8704,,3589
+942,Sierra Leone,2015-11-03, Probable,287,,208
+943,Sierra Leone,2015-11-03, Total,14 104,,3955
+944,Sierra Leone,2015-11-04, Suspected,5118,,158
+945,Sierra Leone,2015-11-04, Confirmed,8704,,3589
+946,Sierra Leone,2015-11-04, Total,14 109,,3955
+947,Sierra Leone,2015-11-04, Probable,287,,208
+948,Sierra Leone,2015-11-07, Total,14 122,,3955
+949,Sierra Leone,2015-11-07, Suspected,5131,-,158
+950,Sierra Leone,2015-11-07, Suspected,5131,-,158
+951,Sierra Leone,2015-11-07, Probable,287,-,208
+952,Sierra Leone,2015-11-07, Probable,287,-,208
+953,Sierra Leone,2015-11-07, Probable,287,,208
+954,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+955,Sierra Leone,2015-11-07, Total,14 122,0,3955
+956,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+957,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+958,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+959,Sierra Leone,2015-11-07, Total,14 122,-,3955
+960,Sierra Leone,2015-11-07, Total,14 122,-,3955
+961,Sierra Leone,2015-11-07, Suspected,5131,,158
+962,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+963,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+964,Sierra Leone,2015-11-07, Suspected,5131,,158
+965,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+966,Sierra Leone,2015-11-07, Probable,287,-,208
+967,Sierra Leone,2015-11-07, Suspected,5131,-,158
+968,Sierra Leone,2015-11-07, Total,14 122,-,3955
+969,Sierra Leone,2015-11-07, Total,14 122,,3955
+970,Sierra Leone,2015-11-07, Suspected,5131,,158
+971,Sierra Leone,2015-11-07, Probable,287,,208
+972,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+973,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+974,Sierra Leone,2015-11-07, Probable,287,-,208
+975,Sierra Leone,2015-11-07, Suspected,5131,-,158
+976,Sierra Leone,2015-11-07, Total,14 122,,3955
+977,Sierra Leone,2015-11-07, Suspected,5131,,158
+978,Sierra Leone,2015-11-07, Probable,287,,208
+979,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+980,Sierra Leone,2015-11-07, Total,14 122,-,3955
+981,Sierra Leone,2015-11-07, Total,14 122,,3955
+982,Sierra Leone,2015-11-07, Suspected,5131,,158
+983,Sierra Leone,2015-11-07, Probable,287,,208
+984,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+985,Sierra Leone,2015-11-07, Total,14 122,0,3955
+986,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+987,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+988,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+989,Sierra Leone,2015-11-07, Probable,287,,208
+990,Sierra Leone,2015-11-07, Total,14 122,,3955
+991,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+992,Sierra Leone,2015-11-07, Total,14 122,,3955
+993,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+994,Sierra Leone,2015-11-07, Probable,287,-,208
+995,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+996,Sierra Leone,2015-11-07, Total,14 122,,3955
+997,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+998,Sierra Leone,2015-11-07, Probable,287,,208
+999,Sierra Leone,2015-11-07, Suspected,5131,,158
+1000,Sierra Leone,2015-11-07, Total,14 122,,3955
+1001,Sierra Leone,2015-11-07, Suspected,5131,,158
+1002,Sierra Leone,2015-11-07, Probable,287,,208
+1003,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1004,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1005,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1006,Sierra Leone,2015-11-07, Total,14 122,,3955
+1007,Sierra Leone,2015-11-07, Probable,287,,208
+1008,Sierra Leone,2015-11-07, Suspected,5131,,158
+1009,Sierra Leone,2015-11-07, Probable,287,,208
+1010,Sierra Leone,2015-11-07, Total,14 122,,3955
+1011,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1012,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1013,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1014,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1015,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1016,Sierra Leone,2015-11-07, Probable,287,,208
+1017,Sierra Leone,2015-11-07, Suspected,5131,,158
+1018,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1019,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1020,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1021,Sierra Leone,2015-11-07, Suspected,5131,,158
+1022,Sierra Leone,2015-11-07, Probable,287,-,208
+1023,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1024,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1025,Sierra Leone,2015-11-07, Probable,287,-,208
+1026,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1027,Sierra Leone,2015-11-07, Suspected,5131,,158
+1028,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1029,Sierra Leone,2015-11-07, Total,14 122,,3955
+1030,Sierra Leone,2015-11-07, Suspected,5131,,158
+1031,Sierra Leone,2015-11-07, Probable,287,,208
+1032,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1033,Sierra Leone,2015-11-07, Total,14 122,,3955
+1034,Sierra Leone,2015-11-07, Probable,287,,208
+1035,Sierra Leone,2015-11-07, Total,14 122,,3955
+1036,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1037,Sierra Leone,2015-11-07, Probable,287,,208
+1038,Sierra Leone,2015-11-07, Suspected,5131,,158
+1039,Sierra Leone,2015-11-07, Total,14 122,,3955
+1040,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1041,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1042,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1043,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1044,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1045,Sierra Leone,2015-11-07, Probable,287,,208
+1046,Sierra Leone,2015-11-07, Suspected,5131,,158
+1047,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1048,Sierra Leone,2015-11-07, Suspected,5131,,158
+1049,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1050,Sierra Leone,2015-11-07, Suspected,5131,,158
+1051,Sierra Leone,2015-11-07, Total,14 122,,3955
+1052,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1053,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1054,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1055,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1056,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1057,Sierra Leone,2015-11-07, Probable,287,-,208
+1058,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1059,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1060,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1061,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1062,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1063,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1064,Sierra Leone,2015-11-07, Total,14 122,,3955
+1065,Sierra Leone,2015-11-07, Probable,287,,208
+1066,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1067,Sierra Leone,2015-11-07, Total,14 122,,3955
+1068,Sierra Leone,2015-11-07, Suspected,5131,,158
+1069,Sierra Leone,2015-11-07, Suspected,5131,,158
+1070,Sierra Leone,2015-11-07, Total,14 122,,3955
+1071,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1072,Sierra Leone,2015-11-07, Probable,287,,208
+1073,Sierra Leone,2015-11-07, Suspected,5131,,158
+1074,Sierra Leone,2015-11-07, Total,14 122,,3955
+1075,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1076,Sierra Leone,2015-11-07, Suspected,5131,,158
+1077,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1078,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1079,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1080,Sierra Leone,2015-11-07, Probable,287,-,208
+1081,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1082,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1083,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1084,Sierra Leone,2015-11-07, Probable,287,,208
+1085,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1086,Sierra Leone,2015-11-07, Probable,287,,208
+1087,Sierra Leone,2015-11-07, Probable,287,,208
+1088,Sierra Leone,2015-11-07, Total,14 122,,3955
+1089,Sierra Leone,2015-11-07, Probable,287,-,208
+1090,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1091,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1092,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1093,Sierra Leone,2015-11-07, Probable,287,-,208
+1094,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1095,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1096,Sierra Leone,2015-11-07, Total,14 122,,3955
+1097,Sierra Leone,2015-11-07, Suspected,5131,,158
+1098,Sierra Leone,2015-11-07, Probable,287,,208
+1099,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1100,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1101,Sierra Leone,2015-11-07, Probable,287,,208
+1102,Sierra Leone,2015-11-07, Suspected,5131,,158
+1103,Sierra Leone,2015-11-07, Total,14 122,,3955
+1104,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1105,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1106,Sierra Leone,2015-11-07, Probable,287,,208
+1107,Sierra Leone,2015-11-07, Suspected,5131,,158
+1108,Sierra Leone,2015-11-07, Suspected,5131,,158
+1109,Sierra Leone,2015-11-07, Probable,287,,208
+1110,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1111,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1112,Sierra Leone,2015-11-07, Probable,287,-,208
+1113,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1114,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1115,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1116,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1117,Sierra Leone,2015-11-07, Probable,287,-,208
+1118,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1119,Sierra Leone,2015-11-07, Total,14 122,,3955
+1120,Sierra Leone,2015-11-07, Suspected,5131,,158
+1121,Sierra Leone,2015-11-07, Probable,287,,208
+1122,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1123,Sierra Leone,2015-11-07, Total,14 122,,3955
+1124,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1125,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1126,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1127,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1128,Sierra Leone,2015-11-07, Probable,287,,208
+1129,Sierra Leone,2015-11-07, Suspected,5131,,158
+1130,Sierra Leone,2015-11-07, Total,14 122,,3955
+1131,Sierra Leone,2015-11-07, Suspected,5131,,158
+1132,Sierra Leone,2015-11-07, Probable,287,,208
+1133,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1134,Sierra Leone,2015-11-07, Total,14 122,,3955
+1135,Sierra Leone,2015-11-07, Probable,287,,208
+1136,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1137,Sierra Leone,2015-11-07, Total,14 122,,3955
+1138,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1139,Sierra Leone,2015-11-07, Probable,287,,208
+1140,Sierra Leone,2015-11-07, Suspected,5131,,158
+1141,Sierra Leone,2015-11-07, Total,14 122,,3955
+1142,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1143,Sierra Leone,2015-11-07, Probable,287,-,208
+1144,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1145,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1146,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1147,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1148,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1149,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1150,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1151,Sierra Leone,2015-11-07, Probable,287,-,208
+1152,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1153,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1154,Sierra Leone,2015-11-07, Probable,287,-,208
+1155,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1156,Sierra Leone,2015-11-07, Total,14 122,,3955
+1157,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1158,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1159,Sierra Leone,2015-11-07, Total,14 122,-,3955
+1160,Sierra Leone,2015-11-07, Suspected,5131,,158
+1161,Sierra Leone,2015-11-07, Confirmed,8704,-,3589
+1162,Sierra Leone,2015-11-07, Probable,287,,208
+1163,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1164,Sierra Leone,2015-11-07, Total,14 122,,3955
+1165,Sierra Leone,2015-11-07, Suspected,5131,,158
+1166,Sierra Leone,2015-11-07, Probable,287,,208
+1167,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1168,Sierra Leone,2015-11-07, Suspected,5131,-,158
+1169,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1170,Sierra Leone,2015-11-07, Probable,287,-,208
+1171,Sierra Leone,2015-11-07, Total,14 122,0,3955
+1172,Sierra Leone,2015-11-07, Confirmed,8704,,3589
+1173,Sierra Leone,2015-11-07, Suspected,5131,Not reported.,158
+1174,Sierra Leone,2015-11-07, Probable,287,Not reported.,208
+1175,Sierra Leone,2015-11-07, Confirmed,8704,0,3589
+1176,Sierra Leone,2016-01-17, Total,1,1,1
+1177,Sierra Leone,2016-01-17, Suspected,0,0,0
+1178,Sierra Leone,2016-01-17, Probable,0,0,0
+1179,Sierra Leone,2016-01-17, Confirmed,1,1,1
+1180,Sierra Leone,2016-01-24, Confirmed,2,2,1
+1181,Sierra Leone,2016-01-24, Probable,0,0,0
+1182,Sierra Leone,2016-01-24, Total,2,2,1
+1183,Sierra Leone,2016-01-24, Suspected,0,0,0
+1184,Sierra Leone,2016-01-31, Total,2,2,1
+1185,Sierra Leone,2016-01-31, Suspected,0,0,0
+1186,Sierra Leone,2016-01-31, Probable,0,0,0
+1187,Sierra Leone,2016-01-31, Confirmed,2,2,1
+1188,Sierra Leone,2016-02-07, Confirmed,2,2,1
+1189,Sierra Leone,2016-02-07, Total,2,2,1
+1190,Sierra Leone,2016-02-07, Suspected,0,0,0
+1191,Sierra Leone,2016-02-07, Probable,0,0,0
+1192,Sierra Leone,2016-02-14, Confirmed,2,0,1
+1193,Sierra Leone,2016-02-14, Total,2,0,1
+1194,Sierra Leone,2016-02-14, Suspected,Not reported.,Not reported.,Not reported.
+1195,Sierra Leone,2016-02-14, Probable,Not reported.,Not reported.,Not reported.
+1196,Sierra Leone,2016-02-21, Probable,Not reported.,Not reported.,Not reported.
+1197,Sierra Leone,2016-02-21, Suspected,Not reported.,Not reported.,Not reported.
+1198,Sierra Leone,2016-02-21, Confirmed,2,0,1
+1199,Sierra Leone,2016-02-21, Total,2,0,1
+1200,Sierra Leone,2016-02-28, Suspected,Not reported.,Not reported.,Not reported.
+1201,Sierra Leone,2016-02-28, Confirmed,2,0,1
+1202,Sierra Leone,2016-02-28, Probable,Not reported.,Not reported.,Not reported.
+1203,Sierra Leone,2016-02-28, Total,2,0,1
+1204,Sierra Leone,2016-03-06, Confirmed,2,0,1
+1205,Sierra Leone,2016-03-06, Probable,Not reported.,Not reported.,Not reported.
+1206,Sierra Leone,2016-03-06, Total,2,0,1
+1207,Sierra Leone,2016-03-06, Suspected,Not reported.,Not reported.,Not reported.
+1208,Sierra Leone,2016-03-13, Confirmed,2,0,1
+1209,Sierra Leone,2016-03-13, Probable,Not reported.,Not reported.,Not reported.
+1210,Sierra Leone,2016-03-13, Suspected,Not reported.,Not reported.,Not reported.
+1211,Sierra Leone,2016-03-13, Total,2,0,1
+1212,Sierra Leone,2016-03-13, Suspected,Not reported.,Not reported.,Not reported.
+1213,Sierra Leone,2016-03-13, Probable,Not reported.,Not reported.,Not reported.
+1214,Sierra Leone,2016-03-13, Confirmed,2,0,1
+1215,Sierra Leone,2016-03-13, Total,2,0,1
+1216,Sierra Leone,2016-03-17, Confirmed,2,-,1
+1217,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1218,Sierra Leone,2016-03-17, Confirmed,2,-,1
+1219,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.
+1220,Sierra Leone,2016-03-17, Total,2,-,1
+1221,Sierra Leone,2016-03-17, Total,2,0,1
+1222,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.
+1223,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.
+1224,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.
+1225,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1226,Sierra Leone,2016-03-17, Total,2,-,1
+1227,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.
+1228,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1229,Sierra Leone,2016-03-17, Confirmed,2,-,1
+1230,Sierra Leone,2016-03-17, Confirmed,2,0,1
+1231,Sierra Leone,2016-03-17, Total,2,-,1
+1232,Sierra Leone,2016-03-17, Total,2,-,1
+1233,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1234,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1235,Sierra Leone,2016-03-17, Confirmed,2,-,1
+1236,Sierra Leone,2016-03-17, Total,2,-,1
+1237,Sierra Leone,2016-03-17, Confirmed,2,-,1
+1238,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1239,Sierra Leone,2016-03-17, Total,2,-,1
+1240,Sierra Leone,2016-03-17, Confirmed,2,-,1
+1241,Sierra Leone,2016-03-17, Probable,Not reported.,Not reported.,Not reported.
+1242,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.
+1243,Sierra Leone,2016-03-17, Suspected,Not reported.,Not reported.,Not reported.

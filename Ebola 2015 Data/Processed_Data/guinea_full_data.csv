@@ -1,0 +1,1209 @@
+,Country,Data as of,Case definition,Number of cases Cumulative,Number of cases in past 21 days,Number of deaths Cumulative
+0,Guinea,2014-11-25, Suspected,21,,0
+1,Guinea,2014-11-25, Total,2123,,1284
+2,Guinea,2014-11-25, Probable,210,,210
+3,Guinea,2014-11-25, Confirmed,1892,,1074
+4,Guinea,2014-11-28, Total,2155,,1312
+5,Guinea,2014-11-28, Suspected,24,,0
+6,Guinea,2014-11-28, Probable,210,,210
+7,Guinea,2014-11-28, Confirmed,1921,,1102
+8,Guinea,2014-11-30, Total,2164,306,1327
+9,Guinea,2014-11-30, Suspected,25,Not reported,0
+10,Guinea,2014-11-30, Probable,210,Not reported,210
+11,Guinea,2014-11-30, Total,2164,,1327
+12,Guinea,2014-11-30, Suspected,25,,0
+13,Guinea,2014-11-30, Probable,210,,210
+14,Guinea,2014-11-30, Confirmed,1929,,1117
+15,Guinea,2014-11-30, Confirmed,1929,306,1117
+16,Guinea,2014-12-02, Total,2186,,1349
+17,Guinea,2014-12-02, Confirmed,1949,,1139
+18,Guinea,2014-12-02, Probable,210,,210
+19,Guinea,2014-12-02, Suspected,27,,0
+20,Guinea,2014-12-03, Suspected,21,,0
+21,Guinea,2014-12-03, Probable,215,,215
+22,Guinea,2014-12-03, Confirmed,1956,,1151
+23,Guinea,2014-12-03, Total,2192,,1366
+24,Guinea,2014-12-06, Confirmed,2035,,1192
+25,Guinea,2014-12-06, Suspected,28,,0
+26,Guinea,2014-12-06, Probable,220,,220
+27,Guinea,2014-12-06, Total,2283,,1412
+28,Guinea,2014-12-07, Total,2292,511,1428
+29,Guinea,2014-12-07, Suspected,20,177,0
+30,Guinea,2014-12-07, Probable,221,13,221
+31,Guinea,2014-12-07, Confirmed,2051,321,1207
+32,Guinea,2014-12-09, Total,2339,,1454
+33,Guinea,2014-12-09, Suspected,29,,0
+34,Guinea,2014-12-09, Probable,229,,229
+35,Guinea,2014-12-09, Confirmed,2081,,1225
+36,Guinea,2014-12-10, Confirmed,2096,,1233
+37,Guinea,2014-12-10, Probable,229,,229
+38,Guinea,2014-12-10, Suspected,29,,0
+39,Guinea,2014-12-10, Total,2354,,1462
+40,Guinea,2014-12-13, Probable,263,,263
+41,Guinea,2014-12-13, Confirmed,2115,,1255
+42,Guinea,2014-12-13, Suspected,16,,0
+43,Guinea,2014-12-13, Total,2394,,1518
+44,Guinea,2014-12-14, Total,2416,249,1525
+45,Guinea,2014-12-14, Suspected,26,Not reported,0
+46,Guinea,2014-12-14, Probable,263,Not reported,263
+47,Guinea,2014-12-14, Confirmed,2127,249,1262
+48,Guinea,2014-12-16, Suspected,27,,0
+49,Guinea,2014-12-16, Total,2453,,1550
+50,Guinea,2014-12-16, Confirmed,2164,,1287
+51,Guinea,2014-12-16, Probable,263,,263
+52,Guinea,2014-12-20, Total,2571,,1586
+53,Guinea,2014-12-20, Suspected,49,,0
+54,Guinea,2014-12-20, Probable,263,,263
+55,Guinea,2014-12-20, Confirmed,2259,,1323
+56,Guinea,2014-12-21, Total,2597,328,1607
+57,Guinea,2014-12-21, Suspected,50,,0
+58,Guinea,2014-12-21, Probable,263,Not reported,263
+59,Guinea,2014-12-21, Confirmed,2284,328,1344
+60,Guinea,2014-12-21, Total,2597,,1607
+61,Guinea,2014-12-21, Confirmed,2284,,1344
+62,Guinea,2014-12-21, Probable,263,,263
+63,Guinea,2014-12-21, Suspected,50,Not reported,0
+64,Guinea,2014-12-24, Suspected,19,,0
+65,Guinea,2014-12-24, Confirmed,2342,,1385
+66,Guinea,2014-12-24, Probable,269,,269
+67,Guinea,2014-12-24, Total,2630,,1654
+68,Guinea,2014-12-27, Suspected,36,,0
+69,Guinea,2014-12-27, Probable,275,,275
+70,Guinea,2014-12-27, Confirmed,2384,,1422
+71,Guinea,2014-12-27, Total,2695,,1697
+72,Guinea,2014-12-28, Suspected,34,,0
+73,Guinea,2014-12-28, Probable,275,,275
+74,Guinea,2014-12-28, Confirmed,2397,,1433
+75,Guinea,2014-12-28, Confirmed,2397,346,1433
+76,Guinea,2014-12-28, Probable,276,Not reported,276
+77,Guinea,2014-12-28, Suspected,34,Not reported,0
+78,Guinea,2014-12-28, Total,2707,346,1709
+79,Guinea,2014-12-28, Total,2706,,1708
+80,Guinea,2014-12-31, Total,2730,,1739
+81,Guinea,2014-12-31, Suspected,19,,0
+82,Guinea,2014-12-31, Probable,276,,276
+83,Guinea,2014-12-31, Confirmed,2435,,1463
+84,Guinea,2015-01-03, Probable,280,,280
+85,Guinea,2015-01-03, Suspected,26,,0
+86,Guinea,2015-01-03, Total,2769,,1767
+87,Guinea,2015-01-03, Confirmed,2465,,1488
+88,Guinea,2015-01-04, Suspected,22,Not reported,0
+89,Guinea,2015-01-04, Confirmed,2471,,1499
+90,Guinea,2015-01-04, Suspected,22,,0
+91,Guinea,2015-01-04, Probable,282,,282
+92,Guinea,2015-01-04, Total,2775,344,1781
+93,Guinea,2015-01-04, Total,2775,,1781
+94,Guinea,2015-01-04, Probable,282,Not reported,282
+95,Guinea,2015-01-04, Confirmed,2471,344,1499
+96,Guinea,2015-01-05, Suspected,17,,Not available
+97,Guinea,2015-01-05, Total,2776,,1786
+98,Guinea,2015-01-05, Confirmed,2477,,1504
+99,Guinea,2015-01-05, Probable,282,,282
+100,Guinea,2015-01-07, Confirmed,2493,,1515
+101,Guinea,2015-01-07, Suspected,18,,Not available
+102,Guinea,2015-01-07, Probable,282,,282
+103,Guinea,2015-01-07, Total,2793,,1797
+104,Guinea,2015-01-10, Total,2799,,1807
+105,Guinea,2015-01-10, Confirmed,2508,,1523
+106,Guinea,2015-01-10, Probable,284,,284
+107,Guinea,2015-01-10, Suspected,7,,Not available
+108,Guinea,2015-01-10, Probable,284,,284
+109,Guinea,2015-01-10, Suspected,7,,Not available
+110,Guinea,2015-01-10, Confirmed,2508,,1523
+111,Guinea,2015-01-10, Total,2799,,1807
+112,Guinea,2015-01-11, Probable,284,Not reported,284
+113,Guinea,2015-01-11, Suspected,8,Not reported,Data not available. 
+114,Guinea,2015-01-11, Total,2806,230,1814
+115,Guinea,2015-01-11, Confirmed,2514,230,1530
+116,Guinea,2015-01-12, Total,2817,,1821
+117,Guinea,2015-01-12, Confirmed,2522,,1537
+118,Guinea,2015-01-12, Probable,284,,284
+119,Guinea,2015-01-12, Suspected,11,,Not available
+120,Guinea,2015-01-13, Confirmed,2525,,1541
+121,Guinea,2015-01-13, Probable,288,,288
+122,Guinea,2015-01-13, Suspected,12,,Not available
+123,Guinea,2015-01-13, Total,2825,,1829
+124,Guinea,2015-01-17, Probable,319,,319
+125,Guinea,2015-01-17, Suspected,15,,Not available
+126,Guinea,2015-01-17, Total,2873,,1875
+127,Guinea,2015-01-17, Confirmed,2539,,1556
+128,Guinea,2015-01-18, Total,2871,136,1876
+129,Guinea,2015-01-18, Confirmed,2539,136,1557
+130,Guinea,2015-01-18, Total,2871,,1876
+131,Guinea,2015-01-18, Confirmed,2539,,1557
+132,Guinea,2015-01-18, Suspected,13,Not reported,Data not available.
+133,Guinea,2015-01-18, Probable,319,Not reported,319
+134,Guinea,2015-01-18, Probable,319,,319
+135,Guinea,2015-01-18, Suspected,13,,Not available
+136,Guinea,2015-01-19, Confirmed,2542,,1560
+137,Guinea,2015-01-19, Total,2873,,1879
+138,Guinea,2015-01-19, Probable,319,,319
+139,Guinea,2015-01-19, Suspected,12,,Not available
+140,Guinea,2015-01-20, Suspected,9,,not available
+141,Guinea,2015-01-20, Total,2873,,1880
+142,Guinea,2015-01-20, Probable,319,,319
+143,Guinea,2015-01-20, Confirmed,2545,,1561
+144,Guinea,2015-01-24, Total,2909,,1906
+145,Guinea,2015-01-24, Confirmed,2559,,1574
+146,Guinea,2015-01-24, Suspected,18,,Not available
+147,Guinea,2015-01-24, Probable,332,,332
+148,Guinea,2015-01-25, Total,2917,,1910
+149,Guinea,2015-01-25, Confirmed,2569,,1578
+150,Guinea,2015-01-25, Suspected,16,,Not available
+151,Guinea,2015-01-25, Probable,332,,332
+152,Guinea,2015-01-25, Confirmed,2569,92,1578
+153,Guinea,2015-01-25, Total,2917,92,1910
+154,Guinea,2015-01-25, Probable,332,Not reported,332
+155,Guinea,2015-01-25, Suspected,16,Not reported,Data not available
+156,Guinea,2015-01-26, Total,2921,,1911
+157,Guinea,2015-01-26, Suspected,18,,Not available
+158,Guinea,2015-01-26, Confirmed,2571,,1579
+159,Guinea,2015-01-26, Probable,332,,332
+160,Guinea,2015-01-27, Confirmed,2575,,1581
+161,Guinea,2015-01-27, Total,2920,,1913
+162,Guinea,2015-01-27, Probable,332,,332
+163,Guinea,2015-01-27, Suspected,13,,Not available
+164,Guinea,2015-01-31, Confirmed,2593,,1595
+165,Guinea,2015-01-31, Probable,342,,342
+166,Guinea,2015-01-31, Suspected,24,,Not available
+167,Guinea,2015-01-31, Total,2959,,1937
+168,Guinea,2015-02-01, Total,2975,,1944
+169,Guinea,2015-02-01, Total,2975,89,1944
+170,Guinea,2015-02-01, Confirmed,2608,,1597
+171,Guinea,2015-02-01, Probable,347,,347
+172,Guinea,2015-02-01, Suspected,20,,Not available
+173,Guinea,2015-02-01, Confirmed,2608,89,1597
+174,Guinea,2015-02-01, Probable,347,Not reported,347
+175,Guinea,2015-02-01, Suspected,20,Not reported,Data not available
+176,Guinea,2015-02-02, Confirmed,2621,,1600
+177,Guinea,2015-02-02, Probable,347,,347
+178,Guinea,2015-02-02, Suspected,18,,Not available
+179,Guinea,2015-02-02, Total,2986,,1947
+180,Guinea,2015-02-03, Total,2988,,1957
+181,Guinea,2015-02-03, Suspected,11,,Not available
+182,Guinea,2015-02-03, Probable,349,,349
+183,Guinea,2015-02-03, Confirmed,2628,,1608
+184,Guinea,2015-02-07, Total,3042,,1990
+185,Guinea,2015-02-07, Suspected,21,,Not available
+186,Guinea,2015-02-07, Confirmed,2671,,1640
+187,Guinea,2015-02-07, Probable,350,,350
+188,Guinea,2015-02-08, Total,3044,,1995
+189,Guinea,2015-02-08, Suspected,18,,Not available
+190,Guinea,2015-02-08, Probable,352,,352
+191,Guinea,2015-02-08, Confirmed,2674,,1643
+192,Guinea,2015-02-08, Total,3044,134,1995
+193,Guinea,2015-02-08, Suspected,18,Not reported,Data not available. 
+194,Guinea,2015-02-08, Probable,352,Not reported,352
+195,Guinea,2015-02-08, Confirmed,2674,134,1643
+196,Guinea,2015-02-09, Probable,367,,367
+197,Guinea,2015-02-09, Total,3068,,2018
+198,Guinea,2015-02-09, Suspected,16,,Not available
+199,Guinea,2015-02-09, Confirmed,2685,,1651
+200,Guinea,2015-02-10, Probable,373,,373
+201,Guinea,2015-02-10, Suspected,15,,Not available
+202,Guinea,2015-02-10, Total,3081,,2032
+203,Guinea,2015-02-10, Confirmed,2693,,1659
+204,Guinea,2015-02-14, Confirmed,2720,,1678
+205,Guinea,2015-02-14, Total,3101,,2052
+206,Guinea,2015-02-14, Suspected,7,,Not available
+207,Guinea,2015-02-14, Probable,374,,374
+208,Guinea,2015-02-15, Suspected,7,Not reported,Data not available.
+209,Guinea,2015-02-15, Confirmed,2727,156,1683
+210,Guinea,2015-02-15, Probable,374,,374
+211,Guinea,2015-02-15, Suspected,7,,Not available
+212,Guinea,2015-02-15, Total,3108,,2057
+213,Guinea,2015-02-15, Total,3108,156,2057
+214,Guinea,2015-02-15, Probable,374,Not reported,374
+215,Guinea,2015-02-15, Confirmed,2727,,1683
+216,Guinea,2015-02-17, Confirmed,2732,,1686
+217,Guinea,2015-02-17, Probable,381,,381
+218,Guinea,2015-02-17, Total,3115,,2067
+219,Guinea,2015-02-17, Suspected,2,,Not available
+220,Guinea,2015-02-18, Suspected,2,,Not available
+221,Guinea,2015-02-18, Total,3120,,2072
+222,Guinea,2015-02-18, Probable,384,,384
+223,Guinea,2015-02-18, Confirmed,2734,,1688
+224,Guinea,2015-02-21, Confirmed,2758,,1699
+225,Guinea,2015-02-21, Probable,387,,387
+226,Guinea,2015-02-21, Suspected,10,,Not available
+227,Guinea,2015-02-21, Total,3155,,2086
+228,Guinea,2015-02-22, Probable,387,Not reported,387
+229,Guinea,2015-02-22, Suspected,6,Not reported,Data not available.
+230,Guinea,2015-02-22, Total,3155,152,2091
+231,Guinea,2015-02-22, Confirmed,2762,152,1704
+232,Guinea,2015-02-24, Total,3175,,2101
+233,Guinea,2015-02-24, Confirmed,2781,,1714
+234,Guinea,2015-02-24, Probable,387,,387
+235,Guinea,2015-02-24, Suspected,7,,Not available
+236,Guinea,2015-02-25, Confirmed,2790,,1721
+237,Guinea,2015-02-25, Probable,392,,392
+238,Guinea,2015-02-25, Suspected,8,,Not available
+239,Guinea,2015-02-25, Total,3190,,2113
+240,Guinea,2015-02-28, Suspected,5,,Not available
+241,Guinea,2015-02-28, Total,3205,,2127
+242,Guinea,2015-02-28, Confirmed,2808,,1735
+243,Guinea,2015-02-28, Probable,392,,392
+244,Guinea,2015-03-01, Suspected,14,Not reported,Data not available
+245,Guinea,2015-03-01, Confirmed,2813,138,1737
+246,Guinea,2015-03-01, Total,3219,138,2129
+247,Guinea,2015-03-01, Probable,392,Not reported,392
+248,Guinea,2015-03-03, Suspected,12,,Not available
+249,Guinea,2015-03-03, Confirmed,2833,,1749
+250,Guinea,2015-03-03, Probable,392,,392
+251,Guinea,2015-03-03, Total,3237,,2141
+252,Guinea,2015-03-04, Confirmed,2840,,1755
+253,Guinea,2015-03-04, Probable,392,,392
+254,Guinea,2015-03-04, Suspected,16,,Not available
+255,Guinea,2015-03-04, Total,3248,,2147
+256,Guinea,2015-03-07, Total,3273,,2163
+257,Guinea,2015-03-07, Suspected,15,,Not available
+258,Guinea,2015-03-07, Probable,392,,392
+259,Guinea,2015-03-07, Confirmed,2866,,1771
+260,Guinea,2015-03-08, Probable,392,,392
+261,Guinea,2015-03-08, Confirmed,2871,,1778
+262,Guinea,2015-03-08, Confirmed,2871,144,1778
+263,Guinea,2015-03-08, Total,3285,,2170
+264,Guinea,2015-03-08, Suspected,22,Not reported,Data not available.
+265,Guinea,2015-03-08, Suspected,22,,Not available
+266,Guinea,2015-03-08, Total,3285,144,2170
+267,Guinea,2015-03-08, Probable,392,Not reported,392
+268,Guinea,2015-03-10, Confirmed,2901,,1792
+269,Guinea,2015-03-10, Probable,395,,395
+270,Guinea,2015-03-10, Suspected,34,,Not available
+271,Guinea,2015-03-10, Total,3330,,2187
+272,Guinea,2015-03-11, Suspected,25,,Not available
+273,Guinea,2015-03-11, Total,3331,,2192
+274,Guinea,2015-03-11, Confirmed,2911,,1797
+275,Guinea,2015-03-11, Probable,395,,395
+276,Guinea,2015-03-14, Total,3373,,2216
+277,Guinea,2015-03-14, Suspected,21,,Not available
+278,Guinea,2015-03-14, Probable,395,,395
+279,Guinea,2015-03-14, Confirmed,2957,,1821
+280,Guinea,2015-03-15, Confirmed,2966,204,1829
+281,Guinea,2015-03-15, Confirmed,2966,,1829
+282,Guinea,2015-03-15, Probable,395,,395
+283,Guinea,2015-03-15, Suspected,28,,Not available
+284,Guinea,2015-03-15, Total,3389,,2224
+285,Guinea,2015-03-15, Suspected,28,Not reported,Data not available
+286,Guinea,2015-03-15, Probable,395,Not reported,395
+287,Guinea,2015-03-15, Total,3389,204,2224
+288,Guinea,2015-03-17, Total,3409,,2231
+289,Guinea,2015-03-17, Confirmed,2979,,1836
+290,Guinea,2015-03-17, Probable,395,,395
+291,Guinea,2015-03-17, Suspected,35,,Not available
+292,Guinea,2015-03-18, Confirmed,2988,,1846
+293,Guinea,2015-03-18, Probable,395,,395
+294,Guinea,2015-03-18, Suspected,21,,Not available
+295,Guinea,2015-03-18, Total,3404,,2241
+296,Guinea,2015-03-21, Confirmed,3007,,1863
+297,Guinea,2015-03-21, Suspected,15,,Not available
+298,Guinea,2015-03-21, Total,3420,,2261
+299,Guinea,2015-03-21, Probable,398,,398
+300,Guinea,2015-03-22, Confirmed,3011,,1865
+301,Guinea,2015-03-22, Suspected,20,,Not available
+302,Guinea,2015-03-22, Probable,398,,398
+303,Guinea,2015-03-22, Total,3429,,2263
+304,Guinea,2015-03-22, Confirmed,3011,198,1865
+305,Guinea,2015-03-22, Total,3429,198,2263
+306,Guinea,2015-03-22, Probable,398,Not reported,398
+307,Guinea,2015-03-22, Suspected,20,Not reported,Data not available. 
+308,Guinea,2015-03-24, Confirmed,3032,,1875
+309,Guinea,2015-03-24, Suspected,29,,Not available
+310,Guinea,2015-03-24, Probable,398,,398
+311,Guinea,2015-03-24, Total,3459,,2273
+312,Guinea,2015-03-25, Probable,398,,398
+313,Guinea,2015-03-25, Confirmed,3042,,1878
+314,Guinea,2015-03-25, Suspected,26,,Not available
+315,Guinea,2015-03-25, Total,3466,,2276
+316,Guinea,2015-03-28, Probable,414,,414
+317,Guinea,2015-03-28, Total,3485,,2305
+318,Guinea,2015-03-28, Suspected,10,,Not available
+319,Guinea,2015-03-28, Confirmed,3061,,1891
+320,Guinea,2015-03-29, Confirmed,3068,197,1900
+321,Guinea,2015-03-29, Probable,414,Not reported,414
+322,Guinea,2015-03-29, Total,3492,197,2314
+323,Guinea,2015-03-29, Suspected,10,Not reported,Data not available.
+324,Guinea,2015-03-29, Total,3492,,2314
+325,Guinea,2015-03-29, Suspected,10,,Not available
+326,Guinea,2015-03-29, Confirmed,3068,,1900
+327,Guinea,2015-03-29, Probable,414,,414
+328,Guinea,2015-03-31, Total,3494,,2320
+329,Guinea,2015-03-31, Suspected,7,,Not available
+330,Guinea,2015-03-31, Probable,414,,414
+331,Guinea,2015-03-31, Confirmed,3073,,1906
+332,Guinea,2015-04-05, Total,3515,123,2333
+333,Guinea,2015-04-05, Probable,414,Not reported.,414
+334,Guinea,2015-04-05, Suspected,12,Not reported.,Data not available. 
+335,Guinea,2015-04-05, Confirmed,3089,123,1919
+336,Guinea,2015-04-05, Total,3515,,2333
+337,Guinea,2015-04-05, Suspected,12,,Not available
+338,Guinea,2015-04-05, Probable,414,,414
+339,Guinea,2015-04-05, Confirmed,3089,,1919
+340,Guinea,2015-04-07, Total,3515,,2335
+341,Guinea,2015-04-07, Suspected,8,,Not available
+342,Guinea,2015-04-07, Confirmed,3093,,1921
+343,Guinea,2015-04-07, Probable,414,,414
+344,Guinea,2015-04-08, Probable,414,,414
+345,Guinea,2015-04-08, Total,3524,,2337
+346,Guinea,2015-04-08, Confirmed,3096,,1923
+347,Guinea,2015-04-08, Suspected,14,,Not available
+348,Guinea,2015-04-11, Confirmed,3112,,1928
+349,Guinea,2015-04-11, Total,3541,,2342
+350,Guinea,2015-04-11, Suspected,15,,Not available
+351,Guinea,2015-04-11, Probable,414,,414
+352,Guinea,2015-04-12, Total,3548,,2346
+353,Guinea,2015-04-12, Suspected,17,,Not available
+354,Guinea,2015-04-12, Probable,414,,414
+355,Guinea,2015-04-12, Confirmed,3117,,1932
+356,Guinea,2015-04-12, Suspected,17,Not reported.,Data not available.
+357,Guinea,2015-04-12, Probable,414,Not reported.,414
+358,Guinea,2015-04-12, Confirmed,3117,106,1932
+359,Guinea,2015-04-12, Total,3548,106,2346
+360,Guinea,2015-04-14, Confirmed,3124,,1934
+361,Guinea,2015-04-14, Probable,414,,414
+362,Guinea,2015-04-14, Suspected,28,,Not available
+363,Guinea,2015-04-14, Total,3566,,2348
+364,Guinea,2015-04-15, Confirmed,3126,,1937
+365,Guinea,2015-04-15, Total,3569,,2351
+366,Guinea,2015-04-15, Suspected,29,,Not available
+367,Guinea,2015-04-15, Probable,414,,414
+368,Guinea,2015-04-18, Probable,415,,415
+369,Guinea,2015-04-18, Confirmed,3133,,1942
+370,Guinea,2015-04-18, Total,3565,,2357
+371,Guinea,2015-04-18, Suspected,17,,Not available
+372,Guinea,2015-04-19, Suspected,14,Not reported.,Data not available.
+373,Guinea,2015-04-19, Probable,415,Not reported.,415
+374,Guinea,2015-04-19, Total,3565,70,2358
+375,Guinea,2015-04-19, Confirmed,3136,70,1943
+376,Guinea,2015-04-19, Total,3565,,2358
+377,Guinea,2015-04-19, Suspected,14,,Not available
+378,Guinea,2015-04-19, Probable,415,,415
+379,Guinea,2015-04-19, Confirmed,3136,,1943
+380,Guinea,2015-04-21, Total,3568,,2362
+381,Guinea,2015-04-21, Suspected,9,,Not available
+382,Guinea,2015-04-21, Probable,415,,415
+383,Guinea,2015-04-21, Confirmed,3144,,1947
+384,Guinea,2015-04-22, Confirmed,3145,,1950
+385,Guinea,2015-04-22, Probable,415,,415
+386,Guinea,2015-04-22, Suspected,16,,Not available
+387,Guinea,2015-04-22, Total,3576,,2365
+388,Guinea,2015-04-24, Confirmed,3154,,1959
+389,Guinea,2015-04-24, Probable,415,,415
+390,Guinea,2015-04-24, Total,3585,,2374
+391,Guinea,2015-04-24, Suspected,16,,Not available
+392,Guinea,2015-04-26, Probable,415,Not reported.,415
+393,Guinea,2015-04-26, Confirmed,3158,69,1962
+394,Guinea,2015-04-26, Total,3584,69,2377
+395,Guinea,2015-04-26, Suspected,11,Not reported.,Data not available.
+396,Guinea,2015-04-26, Total,3584,,2377
+397,Guinea,2015-04-26, Confirmed,3158,,1962
+398,Guinea,2015-04-26, Probable,415,,415
+399,Guinea,2015-04-26, Suspected,11,,Not available
+400,Guinea,2015-04-28, Total,3581,,2381
+401,Guinea,2015-04-28, Suspected,7,,Not available
+402,Guinea,2015-04-28, Probable,415,,415
+403,Guinea,2015-04-28, Confirmed,3159,,1966
+404,Guinea,2015-04-29, Probable,415,,415
+405,Guinea,2015-04-29, Total,3578,,2383
+406,Guinea,2015-04-29, Suspected,2,,Not available
+407,Guinea,2015-04-29, Confirmed,3161,,1968
+408,Guinea,2015-05-02, Confirmed,3163,,1970
+409,Guinea,2015-05-02, Suspected,13,,Not available
+410,Guinea,2015-05-02, Total,3591,,2385
+411,Guinea,2015-05-02, Probable,415,,415
+412,Guinea,2015-05-03, Suspected,7,Not reported.,Data not available.
+413,Guinea,2015-05-03, Probable,415,Not reported.,415
+414,Guinea,2015-05-03, Confirmed,3167,50,1971
+415,Guinea,2015-05-03, Total,3589,,2386
+416,Guinea,2015-05-03, Suspected,7,,Not available
+417,Guinea,2015-05-03, Probable,415,,415
+418,Guinea,2015-05-03, Confirmed,3167,,1971
+419,Guinea,2015-05-03, Total,3589,50,2386
+420,Guinea,2015-05-05, Suspected,7,,Not available
+421,Guinea,2015-05-05, Probable,415,,415
+422,Guinea,2015-05-05, Confirmed,3170,,1972
+423,Guinea,2015-05-05, Total,3592,,2387
+424,Guinea,2015-05-05, Total,3592,,2387
+425,Guinea,2015-05-05, Suspected,7,,Not available
+426,Guinea,2015-05-05, Confirmed,3170,,1972
+427,Guinea,2015-05-05, Probable,415,,415
+428,Guinea,2015-05-09, Total,3599,,2391
+429,Guinea,2015-05-09, Suspected,11,,Not available
+430,Guinea,2015-05-09, Confirmed,3173,,1976
+431,Guinea,2015-05-09, Probable,415,,415
+432,Guinea,2015-05-10, Total,3597,,2392
+433,Guinea,2015-05-10, Suspected,8,,Not available
+434,Guinea,2015-05-10, Probable,415,,415
+435,Guinea,2015-05-10, Confirmed,3174,,1977
+436,Guinea,2015-05-10, Probable,415,Not reported.,415
+437,Guinea,2015-05-10, Total,3597,38,2392
+438,Guinea,2015-05-10, Confirmed,3174,38,1977
+439,Guinea,2015-05-10, Suspected,8,Not reported.,Data not available.
+440,Guinea,2015-05-12, Suspected,9,,Not available
+441,Guinea,2015-05-12, Probable,419,,419
+442,Guinea,2015-05-12, Confirmed,3187,,1980
+443,Guinea,2015-05-12, Total,3615,,2399
+444,Guinea,2015-05-13, Total,3619,,2401
+445,Guinea,2015-05-13, Suspected,11,,Not available
+446,Guinea,2015-05-13, Probable,419,,419
+447,Guinea,2015-05-13, Confirmed,3189,,1982
+448,Guinea,2015-05-16, Total,3626,,2405
+449,Guinea,2015-05-16, Confirmed,3195,,1986
+450,Guinea,2015-05-16, Suspected,12,,Not available
+451,Guinea,2015-05-16, Probable,419,,419
+452,Guinea,2015-05-17, Confirmed,3201,43,1988
+453,Guinea,2015-05-17, Probable,419,Not reported.,419
+454,Guinea,2015-05-17, Suspected,15,Not reported.,Data not available.
+455,Guinea,2015-05-17, Total,3635,43,2407
+456,Guinea,2015-05-17, Total,3635,,2407
+457,Guinea,2015-05-17, Suspected,15,,Not available
+458,Guinea,2015-05-17, Probable,419,,419
+459,Guinea,2015-05-17, Confirmed,3201,,1988
+460,Guinea,2015-05-19, Probable,419,,419
+461,Guinea,2015-05-19, Suspected,26,,Not available
+462,Guinea,2015-05-19, Total,3649,,2409
+463,Guinea,2015-05-19, Confirmed,3204,,1990
+464,Guinea,2015-05-20, Total,3647,,2412
+465,Guinea,2015-05-20, Suspected,23,,Not available
+466,Guinea,2015-05-20, Confirmed,3205,,1993
+467,Guinea,2015-05-20, Probable,419,,419
+468,Guinea,2015-05-23, Probable,419,,419
+469,Guinea,2015-05-23, Confirmed,3208,,1999
+470,Guinea,2015-05-23, Suspected,13,,Not available
+471,Guinea,2015-05-23, Total,3640,,2418
+472,Guinea,2015-05-24, Probable,419,,419
+473,Guinea,2015-05-24, Suspected,12,Not reported.,Data not available.
+474,Guinea,2015-05-24, Confirmed,3210,43,2001
+475,Guinea,2015-05-24, Total,3641,43,2420
+476,Guinea,2015-05-24, Probable,419,Not reported.,419
+477,Guinea,2015-05-24, Total,3641,,2420
+478,Guinea,2015-05-24, Confirmed,3210,,2001
+479,Guinea,2015-05-24, Suspected,12,,Not available
+480,Guinea,2015-05-26, Suspected,6,,Not available
+481,Guinea,2015-05-26, Probable,419,,419
+482,Guinea,2015-05-26, Confirmed,3214,,2004
+483,Guinea,2015-05-26, Total,3639,,2423
+484,Guinea,2015-05-27, Probable,419,,419
+485,Guinea,2015-05-27, Total,3644,,2425
+486,Guinea,2015-05-27, Confirmed,3216,,2006
+487,Guinea,2015-05-27, Suspected,9,,Not available
+488,Guinea,2015-05-30, Confirmed,3220,,2009
+489,Guinea,2015-05-30, Suspected,14,,Not available
+490,Guinea,2015-05-30, Probable,419,,419
+491,Guinea,2015-05-30, Total,3653,,2428
+492,Guinea,2015-05-31, Suspected,10,Not reported.,Data not available.
+493,Guinea,2015-05-31, Confirmed,3223,49,2010
+494,Guinea,2015-05-31, Confirmed,3223,,2010
+495,Guinea,2015-05-31, Probable,419,,419
+496,Guinea,2015-05-31, Suspected,10,,Not available
+497,Guinea,2015-05-31, Total,3652,,2429
+498,Guinea,2015-05-31, Total,3652,49,2429
+499,Guinea,2015-05-31, Probable,419,Not reported.,419
+500,Guinea,2015-06-02, Total,3657,,2431
+501,Guinea,2015-06-02, Suspected,11,,Not available
+502,Guinea,2015-06-02, Probable,419,,419
+503,Guinea,2015-06-02, Confirmed,3227,,2012
+504,Guinea,2015-06-03, Probable,419,,419
+505,Guinea,2015-06-03, Confirmed,3228,,2012
+506,Guinea,2015-06-03, Suspected,17,,Not available
+507,Guinea,2015-06-03, Total,3664,,2431
+508,Guinea,2015-06-06, Probable,419,,419
+509,Guinea,2015-06-06, Total,3669,,2435
+510,Guinea,2015-06-06, Suspected,13,,Not available
+511,Guinea,2015-06-06, Confirmed,3237,,2016
+512,Guinea,2015-06-07, Total,3670,38,2437
+513,Guinea,2015-06-07, Suspected,12,Not reported.,Data not available.
+514,Guinea,2015-06-07, Probable,419,Not reported.,419
+515,Guinea,2015-06-07, Confirmed,3239,38,2018
+516,Guinea,2015-06-07, Total,3670,,2437
+517,Guinea,2015-06-07, Suspected,12,,Not available
+518,Guinea,2015-06-07, Probable,419,,419
+519,Guinea,2015-06-07, Confirmed,3239,,2018
+520,Guinea,2015-06-09, Total,3674,,2440
+521,Guinea,2015-06-09, Confirmed,3243,,2021
+522,Guinea,2015-06-09, Probable,419,,419
+523,Guinea,2015-06-09, Suspected,12,,Not available
+524,Guinea,2015-06-10, Total,3677,,2440
+525,Guinea,2015-06-10, Probable,419,,419
+526,Guinea,2015-06-10, Suspected,15,,Not available
+527,Guinea,2015-06-10, Confirmed,3243,,2021
+528,Guinea,2015-06-13, Total,3677,,2443
+529,Guinea,2015-06-13, Suspected,9,,Not available
+530,Guinea,2015-06-13, Confirmed,3249,,2024
+531,Guinea,2015-06-13, Probable,419,,419
+532,Guinea,2015-06-14, Probable,419,,419
+533,Guinea,2015-06-14, Total,3674,35,2444
+534,Guinea,2015-06-14, Suspected,10,Not reported.,Data not available.
+535,Guinea,2015-06-14, Total,3678,,2444
+536,Guinea,2015-06-14, Suspected,10,,Not available
+537,Guinea,2015-06-14, Confirmed,3249,,2025
+538,Guinea,2015-06-14, Probable,419,Not reported.,419
+539,Guinea,2015-06-14, Confirmed,3245,35,2025
+540,Guinea,2015-06-16, Probable,419,,419
+541,Guinea,2015-06-16, Confirmed,3246,,2026
+542,Guinea,2015-06-16, Suspected,10,,Not available
+543,Guinea,2015-06-16, Total,3675,,2445
+544,Guinea,2015-06-17, Total,3674,,2446
+545,Guinea,2015-06-17, Confirmed,3247,,2027
+546,Guinea,2015-06-17, Probable,419,,419
+547,Guinea,2015-06-17, Suspected,8,,Not available
+548,Guinea,2015-06-20, Probable,428,,428
+549,Guinea,2015-06-20, Total,3698,,2456
+550,Guinea,2015-06-20, Confirmed,3254,,2028
+551,Guinea,2015-06-20, Suspected,16,,Not available
+552,Guinea,2015-06-21, Probable,443,Not reported.,443
+553,Guinea,2015-06-21, Suspected,18,,Not available
+554,Guinea,2015-06-21, Probable,443,,443
+555,Guinea,2015-06-21, Confirmed,3257,,2030
+556,Guinea,2015-06-21, Confirmed,3257,34,2030
+557,Guinea,2015-06-21, Total,3718,34,2473
+558,Guinea,2015-06-21, Suspected,18,Not reported.,Data not available.
+559,Guinea,2015-06-21, Total,3718,,2473
+560,Guinea,2015-06-23, Suspected,11,,Not available
+561,Guinea,2015-06-23, Total,3718,,2480
+562,Guinea,2015-06-23, Probable,443,,443
+563,Guinea,2015-06-23, Confirmed,3264,,2037
+564,Guinea,2015-06-24, Suspected,11,,Not available
+565,Guinea,2015-06-24, Confirmed,3266,,2037
+566,Guinea,2015-06-24, Probable,443,,443
+567,Guinea,2015-06-24, Total,3720,,2480
+568,Guinea,2015-06-27, Total,3724,,2482
+569,Guinea,2015-06-27, Suspected,13,,Not available
+570,Guinea,2015-06-27, Probable,443,,443
+571,Guinea,2015-06-27, Confirmed,3268,,2039
+572,Guinea,2015-06-28, Total,3729,,2482
+573,Guinea,2015-06-28, Confirmed,3269,34,2039
+574,Guinea,2015-06-28, Probable,443,Not reported.,443
+575,Guinea,2015-06-28, Suspected,17,Not reported.,Data not available.
+576,Guinea,2015-06-28, Suspected,17,,Not available
+577,Guinea,2015-06-28, Total,3729,34,2482
+578,Guinea,2015-06-28, Confirmed,3269,,2039
+579,Guinea,2015-06-28, Probable,443,,443
+580,Guinea,2015-06-30, Probable,450,,450
+581,Guinea,2015-06-30, Confirmed,3277,,2040
+582,Guinea,2015-06-30, Total,3745,,2490
+583,Guinea,2015-06-30, Suspected,18,,Not available
+584,Guinea,2015-07-01, Confirmed,3279,,2042
+585,Guinea,2015-07-01, Probable,450,,450
+586,Guinea,2015-07-01, Suspected,21,,Not available
+587,Guinea,2015-07-01, Total,3750,,2492
+588,Guinea,2015-07-04, Total,3744,,2498
+589,Guinea,2015-07-04, Probable,450,,450
+590,Guinea,2015-07-04, Confirmed,3287,,2048
+591,Guinea,2015-07-04, Suspected,7,,Not available
+592,Guinea,2015-07-05, Confirmed,3287,,2049
+593,Guinea,2015-07-05, Probable,450,,450
+594,Guinea,2015-07-05, Suspected,11,Not reported.,Data not available.
+595,Guinea,2015-07-05, Suspected,11,,Not available
+596,Guinea,2015-07-05, Total,3748,,2499
+597,Guinea,2015-07-05, Total,3748,42,2499
+598,Guinea,2015-07-05, Probable,450,Not reported.,450
+599,Guinea,2015-07-05, Confirmed,3287,42,2049
+600,Guinea,2015-07-07, Probable,450,,450
+601,Guinea,2015-07-07, Confirmed,3290,,2055
+602,Guinea,2015-07-07, Suspected,4,,Not available
+603,Guinea,2015-07-07, Total,3744,,2505
+604,Guinea,2015-07-08, Confirmed,3293,,2055
+605,Guinea,2015-07-08, Total,3751,,2505
+606,Guinea,2015-07-08, Probable,450,,450
+607,Guinea,2015-07-08, Suspected,8,,Not available
+608,Guinea,2015-07-11, Confirmed,3299,,2056
+609,Guinea,2015-07-11, Suspected,5,,Not available
+610,Guinea,2015-07-11, Probable,450,,450
+611,Guinea,2015-07-11, Total,3754,,2506
+612,Guinea,2015-07-12, Probable,450,Not reported.,450
+613,Guinea,2015-07-12, Probable,450,,450
+614,Guinea,2015-07-12, Total,3760,43,2506
+615,Guinea,2015-07-12, Confirmed,3300,43,2056
+616,Guinea,2015-07-12, Confirmed,3300,,2056
+617,Guinea,2015-07-12, Suspected,10,Not reported.,Data not available.
+618,Guinea,2015-07-12, Total,3760,,2506
+619,Guinea,2015-07-12, Suspected,10,,Not available
+620,Guinea,2015-07-14, Total,3762,,2506
+621,Guinea,2015-07-14, Confirmed,3304,,2056
+622,Guinea,2015-07-14, Suspected,8,,Not available
+623,Guinea,2015-07-14, Probable,450,,450
+624,Guinea,2015-07-15, Confirmed,3310,,2059
+625,Guinea,2015-07-15, Total,3770,,2509
+626,Guinea,2015-07-15, Suspected,10,,Not available
+627,Guinea,2015-07-15, Probable,450,,450
+628,Guinea,2015-07-18, Confirmed,3322,,2061
+629,Guinea,2015-07-18, Suspected,12,,Not available
+630,Guinea,2015-07-18, Total,3784,,2511
+631,Guinea,2015-07-18, Probable,450,,450
+632,Guinea,2015-07-19, Confirmed,3322,53,2062
+633,Guinea,2015-07-19, Suspected,11,,Not available
+634,Guinea,2015-07-19, Probable,450,,450
+635,Guinea,2015-07-19, Confirmed,3322,,2062
+636,Guinea,2015-07-19, Probable,450,Not reported.,450
+637,Guinea,2015-07-19, Suspected,11,Not reported.,Data not available.
+638,Guinea,2015-07-19, Total,3783,53,2512
+639,Guinea,2015-07-19, Total,3783,,2512
+640,Guinea,2015-07-21, Probable,450,,450
+641,Guinea,2015-07-21, Confirmed,3325,,2066
+642,Guinea,2015-07-21, Total,3788,,2516
+643,Guinea,2015-07-21, Suspected,13,,Not available
+644,Guinea,2015-07-22, Confirmed,3325,,2066
+645,Guinea,2015-07-22, Probable,451,,451
+646,Guinea,2015-07-22, Suspected,11,,Not available
+647,Guinea,2015-07-22, Total,3787,,2517
+648,Guinea,2015-07-25, Suspected,16,,Not available
+649,Guinea,2015-07-25, Confirmed,3325,,2068
+650,Guinea,2015-07-25, Probable,451,,451
+651,Guinea,2015-07-25, Total,3792,,2519
+652,Guinea,2015-07-26, Suspected,9,,Not available
+653,Guinea,2015-07-26, Total,3786,,2520
+654,Guinea,2015-07-26, Confirmed,3326,,2069
+655,Guinea,2015-07-26, Suspected,9,Not reported.,Data not available.
+656,Guinea,2015-07-26, Probable,451,,451
+657,Guinea,2015-07-26, Confirmed,3326,39,2069
+658,Guinea,2015-07-26, Total,3786,39,2520
+659,Guinea,2015-07-26, Probable,451,Not reported.,451
+660,Guinea,2015-07-28, Total,3785,,2521
+661,Guinea,2015-07-28, Suspected,7,,Not available
+662,Guinea,2015-07-28, Probable,452,,452
+663,Guinea,2015-07-28, Confirmed,3326,,2069
+664,Guinea,2015-07-29, Suspected,3,,Not available
+665,Guinea,2015-07-29, Probable,452,,452
+666,Guinea,2015-07-29, Confirmed,3326,,2069
+667,Guinea,2015-07-29, Total,3781,,2521
+668,Guinea,2015-08-01, Total,3786,,2522
+669,Guinea,2015-08-01, Confirmed,3327,,2070
+670,Guinea,2015-08-01, Probable,452,,452
+671,Guinea,2015-08-01, Suspected,7,,Not available
+672,Guinea,2015-08-02, Probable,452,,452
+673,Guinea,2015-08-02, Probable,452,Not reported.,452
+674,Guinea,2015-08-02, Confirmed,3327,27,2070
+675,Guinea,2015-08-02, Confirmed,3327,,2070
+676,Guinea,2015-08-02, Total,3784,27,2522
+677,Guinea,2015-08-02, Total,3784,,2522
+678,Guinea,2015-08-02, Suspected,5,,Not available
+679,Guinea,2015-08-02, Suspected,5,Not reported.,Data not available.
+680,Guinea,2015-08-04, Total,3792,,2524
+681,Guinea,2015-08-04, Confirmed,3329,,2072
+682,Guinea,2015-08-04, Probable,452,,452
+683,Guinea,2015-08-04, Suspected,11,,Not available
+684,Guinea,2015-08-05, Suspected,14,,Not available
+685,Guinea,2015-08-05, Total,3795,,2524
+686,Guinea,2015-08-05, Probable,452,,452
+687,Guinea,2015-08-05, Confirmed,3329,,2072
+688,Guinea,2015-08-08, Suspected,10,,Not available
+689,Guinea,2015-08-08, Probable,452,,452
+690,Guinea,2015-08-08, Confirmed,3329,,2072
+691,Guinea,2015-08-08, Total,3791,,2524
+692,Guinea,2015-08-09, Probable,452,Not reported.,452
+693,Guinea,2015-08-09, Suspected,6,Not reported.,Data not available.
+694,Guinea,2015-08-09, Total,3787,7,2524
+695,Guinea,2015-08-09, Confirmed,3329,7,2072
+696,Guinea,2015-08-09, Suspected,6,,Not available
+697,Guinea,2015-08-09, Confirmed,3329,,2072
+698,Guinea,2015-08-09, Probable,452,,452
+699,Guinea,2015-08-09, Total,3787,,2524
+700,Guinea,2015-08-11, Confirmed,3330,,2072
+701,Guinea,2015-08-11, Probable,452,,452
+702,Guinea,2015-08-11, Suspected,10,,Not available
+703,Guinea,2015-08-11, Total,3792,,2524
+704,Guinea,2015-08-12, Suspected,9,,Not available
+705,Guinea,2015-08-12, Probable,452,,452
+706,Guinea,2015-08-12, Confirmed,3330,,2072
+707,Guinea,2015-08-12, Total,3791,,2524
+708,Guinea,2015-08-15, Confirmed,3332,,2072
+709,Guinea,2015-08-15, Probable,452,,452
+710,Guinea,2015-08-15, Suspected,6,,Not available
+711,Guinea,2015-08-15, Total,3790,,2524
+712,Guinea,2015-08-16, Probable,452,Not reported.,452
+713,Guinea,2015-08-16, Total,3786,6,2524
+714,Guinea,2015-08-16, Confirmed,3332,,2072
+715,Guinea,2015-08-16, Probable,452,,452
+716,Guinea,2015-08-16, Suspected,2,,Not available
+717,Guinea,2015-08-16, Total,3786,,2524
+718,Guinea,2015-08-16, Suspected,2,Not reported.,Data not available.
+719,Guinea,2015-08-16, Confirmed,3332,6,2072
+720,Guinea,2015-08-18, Confirmed,3334,,2074
+721,Guinea,2015-08-18, Probable,452,,452
+722,Guinea,2015-08-18, Total,3792,,2526
+723,Guinea,2015-08-18, Suspected,6,,Not available
+724,Guinea,2015-08-19, Confirmed,3334,,2074
+725,Guinea,2015-08-19, Probable,452,,452
+726,Guinea,2015-08-19, Suspected,9,,Not available
+727,Guinea,2015-08-19, Total,3795,,2526
+728,Guinea,2015-08-22, Total,3790,,2527
+729,Guinea,2015-08-22, Suspected,4,,Not available
+730,Guinea,2015-08-22, Probable,452,,452
+731,Guinea,2015-08-22, Confirmed,3334,,2075
+732,Guinea,2015-08-23, Total,3792,8,2527
+733,Guinea,2015-08-23, Confirmed,3335,8,2075
+734,Guinea,2015-08-23, Confirmed,3335,,2075
+735,Guinea,2015-08-23, Probable,452,,452
+736,Guinea,2015-08-23, Probable,452,Not reported.,452
+737,Guinea,2015-08-23, Total,3792,,2527
+738,Guinea,2015-08-23, Suspected,5,,Not available
+739,Guinea,2015-08-23, Suspected,5,Not reported.,Data not available.
+740,Guinea,2015-08-25, Suspected,9,,Not available
+741,Guinea,2015-08-25, Total,3797,,2528
+742,Guinea,2015-08-25, Probable,452,,452
+743,Guinea,2015-08-25, Confirmed,3336,,2076
+744,Guinea,2015-08-26, Probable,452,,452
+745,Guinea,2015-08-26, Total,3797,,2528
+746,Guinea,2015-08-26, Confirmed,3336,,2076
+747,Guinea,2015-08-26, Suspected,9,,Not available
+748,Guinea,2015-08-29, Confirmed,3337,,2076
+749,Guinea,2015-08-29, Probable,452,,452
+750,Guinea,2015-08-29, Suspected,1,,Not available
+751,Guinea,2015-08-29, Total,3790,,2528
+752,Guinea,2015-08-30, Probable,452,,452
+753,Guinea,2015-08-30, Confirmed,3337,8,2077
+754,Guinea,2015-08-30, Probable,452,Not reported.,452
+755,Guinea,2015-08-30, Suspected,3,Not reported.,Data not available.
+756,Guinea,2015-08-30, Total,3792,8,2529
+757,Guinea,2015-08-30, Confirmed,3337,,2077
+758,Guinea,2015-08-30, Total,3792,,2529
+759,Guinea,2015-08-30, Suspected,3,,Not available
+760,Guinea,2015-09-01, Suspected,2,,Not available
+761,Guinea,2015-09-01, Confirmed,3338,,2077
+762,Guinea,2015-09-01, Probable,452,,452
+763,Guinea,2015-09-01, Total,3792,,2529
+764,Guinea,2015-09-02, Confirmed,3338,,2077
+765,Guinea,2015-09-02, Total,3792,,2529
+766,Guinea,2015-09-02, Suspected,2,,Not available
+767,Guinea,2015-09-02, Probable,452,,452
+768,Guinea,2015-09-05, Confirmed,3338,,2078
+769,Guinea,2015-09-05, Total,3793,,2530
+770,Guinea,2015-09-05, Suspected,3,,Not available
+771,Guinea,2015-09-05, Probable,452,,452
+772,Guinea,2015-09-06, Confirmed,3338,,2078
+773,Guinea,2015-09-06, Total,3792,6,2530
+774,Guinea,2015-09-06, Suspected,2,Not reported.,Data not available.
+775,Guinea,2015-09-06, Probable,452,Not reported.,452
+776,Guinea,2015-09-06, Confirmed,3338,6,2078
+777,Guinea,2015-09-06, Total,3792,,2530
+778,Guinea,2015-09-06, Suspected,2,,Not available
+779,Guinea,2015-09-06, Probable,452,,452
+780,Guinea,2015-09-08, Suspected,1,,Not available
+781,Guinea,2015-09-08, Confirmed,3338,,2078
+782,Guinea,2015-09-08, Probable,452,,452
+783,Guinea,2015-09-08, Total,3791,,2530
+784,Guinea,2015-09-09, Probable,452,,452
+785,Guinea,2015-09-09, Confirmed,3338,,2078
+786,Guinea,2015-09-09, Total,3791,,2530
+787,Guinea,2015-09-09, Suspected,1,,Not available
+788,Guinea,2015-09-12, Confirmed,3338,,2078
+789,Guinea,2015-09-12, Probable,452,,452
+790,Guinea,2015-09-12, Suspected,3,,Not available
+791,Guinea,2015-09-12, Total,3793,,2530
+792,Guinea,2015-09-13, Probable,452,,452
+793,Guinea,2015-09-13, Confirmed,3338,3,2078
+794,Guinea,2015-09-13, Suspected,2,,Not available
+795,Guinea,2015-09-13, Total,3792,,2530
+796,Guinea,2015-09-13, Confirmed,3338,,2078
+797,Guinea,2015-09-13, Total,3792,3,2530
+798,Guinea,2015-09-13, Suspected,2,Not reported.,Data not available.
+799,Guinea,2015-09-13, Probable,452,Not reported.,452
+800,Guinea,2015-09-15, Suspected,4,,Not available
+801,Guinea,2015-09-15, Probable,452,,452
+802,Guinea,2015-09-15, Confirmed,3338,,2078
+803,Guinea,2015-09-15, Total,3794,,2530
+804,Guinea,2015-09-16, Total,3794,,2531
+805,Guinea,2015-09-16, Suspected,3,,Not available
+806,Guinea,2015-09-16, Confirmed,3339,,2079
+807,Guinea,2015-09-16, Probable,452,,452
+808,Guinea,2015-09-19, Confirmed,3340,,2079
+809,Guinea,2015-09-19, Probable,453,,453
+810,Guinea,2015-09-19, Total,3797,,2532
+811,Guinea,2015-09-19, Suspected,4,,Not available
+812,Guinea,2015-09-20, Total,3800,3,2532
+813,Guinea,2015-09-20, Confirmed,3340,3,2079
+814,Guinea,2015-09-20, Probable,453,Not reported.,453
+815,Guinea,2015-09-20, Suspected,7,Not reported.,Data not available.
+816,Guinea,2015-09-20, Suspected,7,,Not available
+817,Guinea,2015-09-20, Probable,453,,453
+818,Guinea,2015-09-20, Confirmed,3340,,2079
+819,Guinea,2015-09-20, Total,3800,,2532
+820,Guinea,2015-09-22, Total,3801,,2533
+821,Guinea,2015-09-22, Suspected,8,,Not available
+822,Guinea,2015-09-22, Probable,453,,453
+823,Guinea,2015-09-22, Confirmed,3340,,2080
+824,Guinea,2015-09-23, Confirmed,3340,,2080
+825,Guinea,2015-09-23, Probable,453,,453
+826,Guinea,2015-09-23, Suspected,4,,Not available
+827,Guinea,2015-09-23, Total,3797,,2533
+828,Guinea,2015-09-26, Probable,453,,453
+829,Guinea,2015-09-26, Total,3805,,2533
+830,Guinea,2015-09-26, Suspected,10,,Not available
+831,Guinea,2015-09-26, Confirmed,3342,,2080
+832,Guinea,2015-09-27, Probable,453,,453
+833,Guinea,2015-09-27, Confirmed,3344,,2080
+834,Guinea,2015-09-27, Total,3805,,2533
+835,Guinea,2015-09-27, Probable,453,Not reported.,453
+836,Guinea,2015-09-27, Total,3805,6,2533
+837,Guinea,2015-09-27, Confirmed,3344,6,2080
+838,Guinea,2015-09-27, Suspected,8,,Not available
+839,Guinea,2015-09-27, Suspected,8,Not reported.,Data not available.
+840,Guinea,2015-09-29, Probable,453,,453
+841,Guinea,2015-09-29, Total,3808,,2533
+842,Guinea,2015-09-29, Suspected,11,,Not available
+843,Guinea,2015-09-29, Confirmed,3344,,2080
+844,Guinea,2015-09-30, Confirmed,3344,,2080
+845,Guinea,2015-09-30, Probable,453,,453
+846,Guinea,2015-09-30, Suspected,12,,Not available
+847,Guinea,2015-09-30, Total,3809,,2533
+848,Guinea,2015-10-03, Confirmed,3344,,2081
+849,Guinea,2015-10-03, Total,3804,,2534
+850,Guinea,2015-10-03, Suspected,7,,Not available
+851,Guinea,2015-10-03, Probable,453,,453
+852,Guinea,2015-10-04, Suspected,7,,Not available
+853,Guinea,2015-10-04, Total,3804,6,2534
+854,Guinea,2015-10-04, Total,3804,,2534
+855,Guinea,2015-10-04, Probable,453,Not reported.,453
+856,Guinea,2015-10-04, Confirmed,3344,6,2081
+857,Guinea,2015-10-04, Probable,453,,453
+858,Guinea,2015-10-04, Confirmed,3344,,2081
+859,Guinea,2015-10-04, Suspected,7,Not reported.,Data not available.
+860,Guinea,2015-10-06, Probable,453,,453
+861,Guinea,2015-10-06, Total,3799,,2534
+862,Guinea,2015-10-06, Suspected,2,,Not available
+863,Guinea,2015-10-06, Confirmed,3344,,2081
+864,Guinea,2015-10-07, Probable,453,,453
+865,Guinea,2015-10-07, Suspected,3,,Not available
+866,Guinea,2015-10-07, Total,3800,,2534
+867,Guinea,2015-10-07, Confirmed,3344,,2081
+868,Guinea,2015-10-10, Probable,453,,453
+869,Guinea,2015-10-10, Suspected,1,,Not available
+870,Guinea,2015-10-10, Total,3798,,2534
+871,Guinea,2015-10-10, Confirmed,3344,,2081
+872,Guinea,2015-10-11, Total,3800,,2534
+873,Guinea,2015-10-11, Probable,453,,453
+874,Guinea,2015-10-11, Confirmed,3344,,2081
+875,Guinea,2015-10-11, Suspected,3,,Not available
+876,Guinea,2015-10-11, Confirmed,3344,4,2081
+877,Guinea,2015-10-11, Total,3800,4,2534
+878,Guinea,2015-10-11, Probable,453,Not reported.,453
+879,Guinea,2015-10-11, Suspected,3,Not reported.,Data not available.
+880,Guinea,2015-10-13, Confirmed,3345,,2081
+881,Guinea,2015-10-13, Total,3802,,2534
+882,Guinea,2015-10-13, Suspected,4,,Not available
+883,Guinea,2015-10-13, Probable,453,,453
+884,Guinea,2015-10-14, Total,3804,,2535
+885,Guinea,2015-10-14, Suspected,5,,Not available
+886,Guinea,2015-10-14, Probable,453,,453
+887,Guinea,2015-10-14, Confirmed,3346,,2082
+888,Guinea,2015-10-17, Confirmed,3347,,2082
+889,Guinea,2015-10-17, Total,3806,,2535
+890,Guinea,2015-10-17, Probable,453,,453
+891,Guinea,2015-10-17, Suspected,6,,Not available
+892,Guinea,2015-10-18, Suspected,3,,Not available
+893,Guinea,2015-10-18, Probable,453,,453
+894,Guinea,2015-10-18, Confirmed,3347,,2082
+895,Guinea,2015-10-18, Suspected,3,Not reported.,Data not available.
+896,Guinea,2015-10-18, Total,3803,,2535
+897,Guinea,2015-10-18, Confirmed,3347,3,2082
+898,Guinea,2015-10-18, Probable,453,Not reported.,453
+899,Guinea,2015-10-18, Total,3803,3,2535
+900,Guinea,2015-10-20, Total,3801,,2535
+901,Guinea,2015-10-20, Confirmed,3347,,2082
+902,Guinea,2015-10-20, Suspected,1,,Not available
+903,Guinea,2015-10-20, Probable,453,,453
+904,Guinea,2015-10-21, Probable,453,,453
+905,Guinea,2015-10-21, Confirmed,3347,,2082
+906,Guinea,2015-10-21, Suspected,1,,Not available
+907,Guinea,2015-10-21, Total,3801,,2535
+908,Guinea,2015-10-24, Total,3804,,2535
+909,Guinea,2015-10-24, Suspected,1,,Not available
+910,Guinea,2015-10-24, Probable,453,,453
+911,Guinea,2015-10-24, Confirmed,3350,,2082
+912,Guinea,2015-10-25, Total,3806,,2535
+913,Guinea,2015-10-25, Probable,453,Not reported.,453
+914,Guinea,2015-10-25, Suspected,3,Not reported.,Data not available.
+915,Guinea,2015-10-25, Suspected,3,,Not available
+916,Guinea,2015-10-25, Probable,453,,453
+917,Guinea,2015-10-25, Confirmed,3350,6,2082
+918,Guinea,2015-10-25, Confirmed,3350,,2082
+919,Guinea,2015-10-25, Total,3806,6,2535
+920,Guinea,2015-10-27, Confirmed,3350,,2083
+921,Guinea,2015-10-27, Probable,453,,453
+922,Guinea,2015-10-27, Suspected,5,,Not available
+923,Guinea,2015-10-27, Total,3808,,2536
+924,Guinea,2015-10-28, Confirmed,3350,,2083
+925,Guinea,2015-10-28, Probable,453,,453
+926,Guinea,2015-10-28, Suspected,5,,Not available
+927,Guinea,2015-10-28, Total,3808,,2536
+928,Guinea,2015-10-31, Confirmed,3351,,2083
+929,Guinea,2015-10-31, Probable,453,,453
+930,Guinea,2015-10-31, Suspected,4,,Not available
+931,Guinea,2015-10-31, Total,3808,,2536
+932,Guinea,2015-11-01, Suspected,6,Not reported.,Data not available.
+933,Guinea,2015-11-01, Total,3810,,2536
+934,Guinea,2015-11-01, Probable,453,,453
+935,Guinea,2015-11-01, Confirmed,3351,,2083
+936,Guinea,2015-11-01, Total,3810,7,2536
+937,Guinea,2015-11-01, Probable,453,Not reported.,453
+938,Guinea,2015-11-01, Suspected,6,,Not available
+939,Guinea,2015-11-01, Confirmed,3351,7,2083
+940,Guinea,2015-11-03, Total,3805,,2536
+941,Guinea,2015-11-03, Suspected,1,,Not available
+942,Guinea,2015-11-03, Probable,453,,453
+943,Guinea,2015-11-03, Confirmed,3351,,2083
+944,Guinea,2015-11-04, Confirmed,3351,,2083
+945,Guinea,2015-11-04, Total,3805,,2536
+946,Guinea,2015-11-04, Suspected,1,,Not available
+947,Guinea,2015-11-04, Probable,453,,453
+948,Guinea,2015-11-07, Probable,453,,453
+949,Guinea,2015-11-07, Total,3806,,2536
+950,Guinea,2015-11-07, Suspected,2,,Not available
+951,Guinea,2015-11-07, Confirmed,3351,,2083
+952,Guinea,2015-11-08, Confirmed,3351,,2083
+953,Guinea,2015-11-08, Probable,453,,453
+954,Guinea,2015-11-08, Total,3805,,2536
+955,Guinea,2015-11-08, Suspected,1,,Not available
+956,Guinea,2015-11-08, Confirmed,3351,4,2083
+957,Guinea,2015-11-08, Probable,453,Not reported.,453
+958,Guinea,2015-11-08, Suspected,1,Not reported.,Data not available.
+959,Guinea,2015-11-08, Total,3805,4,2536
+960,Guinea,2015-11-10, Suspected,1,,Not available
+961,Guinea,2015-11-10, Probable,453,,453
+962,Guinea,2015-11-10, Confirmed,3351,,2083
+963,Guinea,2015-11-10, Total,3805,,2536
+964,Guinea,2015-11-11, Total,3804,,2536
+965,Guinea,2015-11-11, Confirmed,3351,,2083
+966,Guinea,2015-11-11, Probable,453,,453
+967,Guinea,2015-11-11, Suspected,0,,Not available
+968,Guinea,2015-11-14, Confirmed,3351,,2083
+969,Guinea,2015-11-14, Total,3805,,2536
+970,Guinea,2015-11-14, Suspected,1,,Not available
+971,Guinea,2015-11-14, Probable,453,,453
+972,Guinea,2015-11-15, Total,3804,,2536
+973,Guinea,2015-11-15, Suspected,0,,Not available
+974,Guinea,2015-11-15, Total,3804,1,2536
+975,Guinea,2015-11-15, Probable,453,,453
+976,Guinea,2015-11-15, Confirmed,3351,,2083
+977,Guinea,2015-11-15, Confirmed,3351,1,2083
+978,Guinea,2015-11-15, Probable,453,Not reported.,453
+979,Guinea,2015-11-15, Suspected,0,Not reported.,Data not available.
+980,Guinea,2015-11-17, Probable,453,,453
+981,Guinea,2015-11-17, Total,3806,,2536
+982,Guinea,2015-11-17, Confirmed,3351,,2083
+983,Guinea,2015-11-17, Suspected,2,,Not available
+984,Guinea,2015-11-18, Confirmed,3351,,2083
+985,Guinea,2015-11-18, Probable,453,,453
+986,Guinea,2015-11-18, Suspected,0,,Not available
+987,Guinea,2015-11-18, Total,3804,,2536
+988,Guinea,2015-11-21, Confirmed,3351,,2083
+989,Guinea,2015-11-21, Probable,453,,453
+990,Guinea,2015-11-21, Suspected,0,,Not available
+991,Guinea,2015-11-21, Total,3804,,2536
+992,Guinea,2015-11-22, Total,3804,0,2536
+993,Guinea,2015-11-22, Probable,453,Not reported.,453
+994,Guinea,2015-11-22, Confirmed,3351,,2083
+995,Guinea,2015-11-22, Suspected,0,Not reported.,Data not available.
+996,Guinea,2015-11-22, Confirmed,3351,0,2083
+997,Guinea,2015-11-22, Total,3804,,2536
+998,Guinea,2015-11-22, Probable,453,,453
+999,Guinea,2015-11-22, Suspected,0,,Not available
+1000,Guinea,2015-11-24, Suspected,0,,Not available
+1001,Guinea,2015-11-24, Probable,453,,453
+1002,Guinea,2015-11-24, Total,3804,,2536
+1003,Guinea,2015-11-24, Confirmed,3351,,2083
+1004,Guinea,2015-11-25, Confirmed,3351,,2083
+1005,Guinea,2015-11-25, Probable,453,,453
+1006,Guinea,2015-11-25, Suspected,0,,Not available
+1007,Guinea,2015-11-25, Total,3804,,2536
+1008,Guinea,2015-11-29, Suspected,0,Not reported.,Data not available.
+1009,Guinea,2015-11-29, Probable,453,Not reported.,453
+1010,Guinea,2015-11-29, Confirmed,3351,0,2083
+1011,Guinea,2015-11-29, Suspected,0,,Not available
+1012,Guinea,2015-11-29, Confirmed,3351,,2083
+1013,Guinea,2015-11-29, Total,3804,,2536
+1014,Guinea,2015-11-29, Probable,453,,453
+1015,Guinea,2015-11-29, Total,3804,0,2536
+1016,Guinea,2015-11-29, Confirmed,3351,,2083
+1017,Guinea,2015-11-29, Probable,453,,453
+1018,Guinea,2015-11-29, Total,3804,,2536
+1019,Guinea,2015-11-29, Suspected,0,,Not available
+1020,Guinea,2015-12-01, Confirmed,3351,,2083
+1021,Guinea,2015-12-01, Total,3805,,2536
+1022,Guinea,2015-12-01, Suspected,1,,Not available
+1023,Guinea,2015-12-01, Probable,453,,453
+1024,Guinea,2015-12-02, Suspected,1,,Not available
+1025,Guinea,2015-12-02, Probable,453,,453
+1026,Guinea,2015-12-02, Total,3805,,2536
+1027,Guinea,2015-12-02, Confirmed,3351,,2083
+1028,Guinea,2015-12-05, Confirmed,3351,,2083
+1029,Guinea,2015-12-05, Probable,453,,453
+1030,Guinea,2015-12-05, Suspected,0,,Not available
+1031,Guinea,2015-12-05, Total,3804,,2536
+1032,Guinea,2015-12-06, Total,3804,0,2536
+1033,Guinea,2015-12-06, Suspected,0,Not reported.,Data not available.
+1034,Guinea,2015-12-06, Total,3804,,2536
+1035,Guinea,2015-12-06, Suspected,0,,Not available
+1036,Guinea,2015-12-06, Probable,453,,453
+1037,Guinea,2015-12-06, Confirmed,3351,,2083
+1038,Guinea,2015-12-06, Confirmed,3351,0,2083
+1039,Guinea,2015-12-06, Probable,453,Not reported.,453
+1040,Guinea,2015-12-08, Suspected,0,,Not available
+1041,Guinea,2015-12-08, Probable,453,,453
+1042,Guinea,2015-12-08, Confirmed,3351,,2083
+1043,Guinea,2015-12-08, Total,3804,,2536
+1044,Guinea,2015-12-09, Confirmed,3351,,2083
+1045,Guinea,2015-12-09, Probable,453,,453
+1046,Guinea,2015-12-09, Suspected,0,,Not available
+1047,Guinea,2015-12-09, Total,3804,,2536
+1048,Guinea,2015-12-12, Probable,453,,453
+1049,Guinea,2015-12-12, Suspected,2,,Not available
+1050,Guinea,2015-12-12, Total,3806,,2536
+1051,Guinea,2015-12-12, Confirmed,3351,,2083
+1052,Guinea,2015-12-13, Confirmed,3351,0,2083
+1053,Guinea,2015-12-13, Suspected,3,,Not available
+1054,Guinea,2015-12-13, Total,3807,,2536
+1055,Guinea,2015-12-13, Probable,453,Not reported.,453
+1056,Guinea,2015-12-13, Probable,453,,453
+1057,Guinea,2015-12-13, Confirmed,3351,,2083
+1058,Guinea,2015-12-13, Total,3807,0,2536
+1059,Guinea,2015-12-13, Suspected,3,Not reported.,Data not available.
+1060,Guinea,2015-12-15, Confirmed,3351,,2083
+1061,Guinea,2015-12-15, Probable,453,,453
+1062,Guinea,2015-12-15, Suspected,1,,Not available
+1063,Guinea,2015-12-15, Total,3805,,2536
+1064,Guinea,2015-12-16, Probable,453,,453
+1065,Guinea,2015-12-16, Suspected,0,,Not available
+1066,Guinea,2015-12-16, Total,3804,,2536
+1067,Guinea,2015-12-16, Confirmed,3351,,2083
+1068,Guinea,2015-12-19, Probable,453,,453
+1069,Guinea,2015-12-19, Suspected,0,,Not available
+1070,Guinea,2015-12-19, Total,3804,,2536
+1071,Guinea,2015-12-19, Confirmed,3351,,2083
+1072,Guinea,2015-12-20, Total,3804,0,2536
+1073,Guinea,2015-12-20, Suspected,0,Not reported.,Data not available.
+1074,Guinea,2015-12-20, Probable,453,Not reported.,453
+1075,Guinea,2015-12-20, Confirmed,3351,0,2083
+1076,Guinea,2015-12-20, Total,3804,,2536
+1077,Guinea,2015-12-20, Suspected,0,,Not available
+1078,Guinea,2015-12-20, Probable,453,,453
+1079,Guinea,2015-12-20, Confirmed,3351,,2083
+1080,Guinea,2015-12-23, Probable,453,,453
+1081,Guinea,2015-12-23, Confirmed,3351,,2083
+1082,Guinea,2015-12-23, Suspected,0,,Not available
+1083,Guinea,2015-12-23, Total,3804,,2536
+1084,Guinea,2015-12-24, Probable,453,,453
+1085,Guinea,2015-12-24, Confirmed,3351,,2083
+1086,Guinea,2015-12-24, Total,3805,,2536
+1087,Guinea,2015-12-24, Suspected,1,,Not available
+1088,Guinea,2015-12-26, Confirmed,3351,,2083
+1089,Guinea,2015-12-26, Probable,453,,453
+1090,Guinea,2015-12-26, Total,3804,,2536
+1091,Guinea,2015-12-26, Suspected,0,,Not available
+1092,Guinea,2015-12-27, Probable,453,Not reported.,453
+1093,Guinea,2015-12-27, Confirmed,3351,,2083
+1094,Guinea,2015-12-27, Probable,453,,453
+1095,Guinea,2015-12-27, Suspected,0,Not reported.,Data not available.
+1096,Guinea,2015-12-27, Total,3804,0,2536
+1097,Guinea,2015-12-27, Suspected,0,,Not available
+1098,Guinea,2015-12-27, Total,3804,,2536
+1099,Guinea,2015-12-27, Confirmed,3351,0,2083
+1100,Guinea,2015-12-28, Probable,453,Not reported.,453
+1101,Guinea,2015-12-28, Confirmed,3351,0,2083
+1102,Guinea,2015-12-28, Probable,453,Not reported.,453
+1103,Guinea,2015-12-28, Confirmed,3351,-,2083
+1104,Guinea,2015-12-28, Probable,453,-,453
+1105,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1106,Guinea,2015-12-28, Total,3804,-,2536
+1107,Guinea,2015-12-28, Total,3804,0,2536
+1108,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1109,Guinea,2015-12-28, Total,3804,0,2536
+1110,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1111,Guinea,2015-12-28, Confirmed,3351,0,2083
+1112,Guinea,2015-12-28, Probable,453,Not reported.,453
+1113,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1114,Guinea,2015-12-28, Probable,453,Not reported.,453
+1115,Guinea,2015-12-28, Confirmed,3351,0,2083
+1116,Guinea,2015-12-28, Total,3804,0,2536
+1117,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1118,Guinea,2015-12-28, Probable,453,Not reported.,453
+1119,Guinea,2015-12-28, Confirmed,3351,0,2083
+1120,Guinea,2015-12-28, Total,3804,0,2536
+1121,Guinea,2015-12-28, Confirmed,3351,0,2083
+1122,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1123,Guinea,2015-12-28, Total,3804,0,2536
+1124,Guinea,2015-12-28, Total,3804,-,2536
+1125,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1126,Guinea,2015-12-28, Probable,453,-,453
+1127,Guinea,2015-12-28, Confirmed,3351,0,2083
+1128,Guinea,2015-12-28, Confirmed,3351,0,2083
+1129,Guinea,2015-12-28, Probable,453,Not reported.,453
+1130,Guinea,2015-12-28, Total,3804,-,2536
+1131,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1132,Guinea,2015-12-28, Probable,453,-,453
+1133,Guinea,2015-12-28, Confirmed,3351,-,2083
+1134,Guinea,2015-12-28, Probable,453,-,453
+1135,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1136,Guinea,2015-12-28, Total,3804,-,2536
+1137,Guinea,2015-12-28, Confirmed,3351,0,2083
+1138,Guinea,2015-12-28, Probable,453,Not reported.,453
+1139,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1140,Guinea,2015-12-28, Total,3804,0,2536
+1141,Guinea,2015-12-28, Confirmed,3351,-,2083
+1142,Guinea,2015-12-28, Probable,453,Not reported.,453
+1143,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1144,Guinea,2015-12-28, Total,3804,-,2536
+1145,Guinea,2015-12-28, Confirmed,3351,0,2083
+1146,Guinea,2015-12-28, Probable,453,Not reported.,453
+1147,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1148,Guinea,2015-12-28, Total,3804,0,2536
+1149,Guinea,2015-12-28, Confirmed,3351,-,2083
+1150,Guinea,2015-12-28, Probable,453,Not reported.,453
+1151,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1152,Guinea,2015-12-28, Confirmed,3351,-,2083
+1153,Guinea,2015-12-28, Total,3804,0,2536
+1154,Guinea,2015-12-28, Total,3804,-,2536
+1155,Guinea,2015-12-28, Total,3804,0,2536
+1156,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1157,Guinea,2015-12-28, Confirmed,3351,-,2083
+1158,Guinea,2015-12-28, Probable,453,-,453
+1159,Guinea,2015-12-28, Total,3804,-,2536
+1160,Guinea,2015-12-28, Total,3804,0,2536
+1161,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1162,Guinea,2015-12-28, Probable,453,Not reported.,453
+1163,Guinea,2015-12-28, Confirmed,3351,0,2083
+1164,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1165,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1166,Guinea,2015-12-28, Probable,453,-,453
+1167,Guinea,2015-12-28, Confirmed,3351,0,2083
+1168,Guinea,2015-12-28, Total,3804,-,2536
+1169,Guinea,2015-12-28, Suspected,0,-,Data not available.
+1170,Guinea,2015-12-28, Probable,453,-,453
+1171,Guinea,2015-12-28, Confirmed,3351,-,2083
+1172,Guinea,2015-12-28, Suspected,0,Not reported.,Data not available.
+1173,Guinea,2015-12-28, Confirmed,3351,-,2083
+1174,Guinea,2015-12-28, Total,3804,0,2536
+1175,Guinea,2015-12-28, Probable,453,Not reported.,453
+1176,Guinea,2016-03-20, Suspected,0,Not reported.,Data not available.
+1177,Guinea,2016-03-20, Probable,3,3,3
+1178,Guinea,2016-03-20, Confirmed,2,2,1
+1179,Guinea,2016-03-20, Total,5,5,4
+1180,Guinea,2016-03-27, Total,7,7,7
+1181,Guinea,2016-03-27, Suspected,Not reported.,Not reported.,Not reported.
+1182,Guinea,2016-03-27, Probable,3,3,3
+1183,Guinea,2016-03-27, Confirmed,4,4,4
+1184,Guinea,2016-04-03, Confirmed,6,6,5
+1185,Guinea,2016-04-03, Suspected,Not reported.,Not reported.,Not reported.
+1186,Guinea,2016-04-03, Probable,3,3,3
+1187,Guinea,2016-04-03, Total,9,9,8
+1188,Guinea,2016-04-10, Confirmed,7,5,5
+1189,Guinea,2016-04-10, Probable,3,0,3
+1190,Guinea,2016-04-10, Suspected,Not reported.,Not reported.,Not reported.
+1191,Guinea,2016-04-10, Total,10,5,8
+1192,Guinea,2016-04-17, Total,10,3,8
+1193,Guinea,2016-04-17, Suspected,Not reported.,Not reported.,Not reported.
+1194,Guinea,2016-04-17, Probable,3,0,3
+1195,Guinea,2016-04-17, Confirmed,7,3,5
+1196,Guinea,2016-04-24, Confirmed,7,1,5
+1197,Guinea,2016-04-24, Total,10,1,8
+1198,Guinea,2016-04-24, Suspected,Not reported.,Not reported.,Not reported.
+1199,Guinea,2016-04-24, Probable,3,0,3
+1200,Guinea,2016-05-01, Probable,3,0,3
+1201,Guinea,2016-05-01, Total,10,0,8
+1202,Guinea,2016-05-01, Confirmed,7,0,5
+1203,Guinea,2016-05-01, Suspected,Not reported.,Not reported.,Not reported.
+1204,Guinea,2016-05-08, Confirmed,7,0,5
+1205,Guinea,2016-05-08, Probable,3,0,3
+1206,Guinea,2016-05-08, Suspected,Not reported.,Not reported.,Not reported.
+1207,Guinea,2016-05-08, Total,10,0,8
