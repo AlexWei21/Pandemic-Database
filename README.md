@@ -1,4 +1,4 @@
-# Past-Pandemic-Metadata
+# Pandemic-Database
 
 ## Introduction
 This repository collects meta data for recent large pandemics taken place around the world. The dataset contains frequently reported case number, reproduction rate, transmission pathways, mortality rate, hospitalization rate, latent period, incubation period, and average hospitalization length for the recorded pandemics. 
