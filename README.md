@@ -22,5 +22,5 @@ This repository collects meta data for recent large pandemics taken place around
 | SARS | Coronaviridae	| Betacoronavirus	| SARS-CoV-1 | Daily | March 2003 | July 2003 | World | https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-complete-dataset |
 | Dengue Fever | Flaviviridae	| Flavivirus	| DENV | Weekly | May 1990 | July 2010 | South America | https://www.kaggle.com/datasets/arashnic/epidemy |
 | Monkeypox | Poxviridae | Orthopoxvirus	| MPXV | Daily | May 2022 | July 2023 | World | https://ourworldindata.org/monkeypox |
-| Zika Virus | Flaviviridae	| Flavivirus	| Zika Virus | Weekly | November 2015 | July 2016 | North/South America | https://www.kaggle.com/datasets/cdc/zika-virus-epidemic |
+| Zika Virus | Flaviviridae	| Flavivirus	| Zika Virus | Weekly | November 2015 | July 2016 | South/Central America, Caribbean | https://www3.paho.org/data/index.php/en/mnu-topics/zika-weekly-en/ |
 | Influenza | Orthomyxovididae | Influenza A, B, and C Virus	| --- | Weekly | December 1997 | July 2023 | United States | https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html |
