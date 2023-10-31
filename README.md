@@ -17,7 +17,7 @@ This repository collects meta data for recent large pandemics taken place around
 ## Time Series Case Data
 | Pandemic | Virus Family | Virus Genus | Virus Species | Frequency | Data Start Time | Data End Time | Collected Area | Data Source |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| COVID-19 | Coronaviridae	| Betacoronavirus	| SARS-CoV-2 | Daily | 2020-01-03 | 2023-10-25* | World | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh / https://covid19.who.int/data  |
+| COVID-19 | Coronaviridae	| Betacoronavirus	| SARS-CoV-2 | Daily | 2020-01-03 | * 2023-10-25 | World | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh / https://covid19.who.int/data  |
 | Ebola | Filoviridae	| Ebolavirus	| Ebola Virus, Sudan Virus, Tai Forest Virus, Bundibugyo Virus | Weekly | March 2014 | April 2016 | Africa | https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/case-counts.html |
 | SARS | Coronaviridae	| Betacoronavirus	| SARS-CoV-1 | Daily | March 2003 | July 2003 | World | https://www.kaggle.com/datasets/imdevskp/sars-outbreak-2003-complete-dataset |
 | Dengue Fever | Flaviviridae	| Flavivirus	| DENV | Weekly | May 1990 | July 2010 | South America | https://www.kaggle.com/datasets/arashnic/epidemy |
