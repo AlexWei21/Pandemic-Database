@@ -3,8 +3,8 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
-| `Dengue_Iquitos_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number |
-| `Dengue_Sanjuan_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number |
+| `Dengue_Iquitos_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number in Iquitos|
+| `Dengue_Sanjuan_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number in Sanjuan|
 
 ## Data Columns
 | Column Name | Description |
