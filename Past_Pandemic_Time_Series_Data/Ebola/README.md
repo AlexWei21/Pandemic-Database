@@ -1,1 +1,1 @@
-# Ebola Pandemic Time Series Data
+# Ebola Outbreak 2014 - 2016
