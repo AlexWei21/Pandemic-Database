@@ -1,1 +1,1 @@
-# Ebola Outbreak 2014 - 2016
+# 2014 - 2016 Ebola Outbreak
