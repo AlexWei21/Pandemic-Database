@@ -2,7 +2,8 @@
 
 ## Data Property
 
-**Date Range**: 2020-01-03 - 2023-10-25\
+**Data Start Date**: 2020-01-03 \
+**Data End Date**: 2023-10-25 \
 **Frequency**: Daily \
 **Location Type**: Country \
 **Num. of Locations**: 237 \
