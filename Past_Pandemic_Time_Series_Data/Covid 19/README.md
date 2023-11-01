@@ -5,5 +5,6 @@
 |---|---|
 |**Date Range**|  |
 |**Frequency**| Daily |
-|**Geological Level**| Country |
+|**Location Type**| Country |
+|**Num. of Locations**| 10 |
 |**Length of Time Series**| 1000 |
