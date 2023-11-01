@@ -1,1 +1,1 @@
-# 2019 - 2023 Covid Pandemic Time Series Data
+# 2019 - 2023 Covid Outbreak Time Series Data
