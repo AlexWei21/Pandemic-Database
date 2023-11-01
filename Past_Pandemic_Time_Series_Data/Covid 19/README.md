@@ -1,4 +1,4 @@
-# 2019 - 2023 Covid Pandemic Time Series Data
+# 2020 - 2023 Covid Pandemic Time Series Data
 
 ## Data Files
 | File Name | Description |
