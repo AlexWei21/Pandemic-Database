@@ -1,12 +1,9 @@
-# 2020 - 2023 Covid Pandemic Time Series Data
+# Influenza Time Series Data
 
 ## Data Files
 | File Name | Description |
 | --- | ---|
-| `Covid_World_Daily_Cases.csv` | Time Series Data for Covid-19 daily confirmed case number |
-| `Covid_World_Daily_CumCases.csv` | Time Series Data for Covid-19 daily cumulative confirmed case number |
-| `Covid_world_Daily_Deaths.csv` | Time Series Data for Covid-19 daily death number |
-| `Covid_World_Daily_CumDeaths.csv` | Time Series Data for Covid-19 daily cumulative death number |
+| `Influenza_World_Weekly_Cases.csv` | Time Series Data for Influenza weekly confirmed case number |
 
 ## Data Columns
 | Column Name | Description |
@@ -24,17 +21,17 @@
 
 ## Data Property
 **Data Start Date** \
-2020-01-03 \
+2009-01-05 \
 **Data End Date** \
-2023-10-25 \
+2023-10-09 \
 **Frequency** \
-Daily \
+Weekly \
 **Location Type** \
 Country \
 **Num. of Locations** \
-237 \
+157 \
 **Length of Time Series** \
-1,392 
+8 - 771 (Length varies based on different countries)
 
 ## Data Source
-https://covid19.who.int/data
+https://ourworldindata.org/influenza#:~:text=pandemic%20in%20history-,Seasonal%20flu%20kills%20hundreds%20of%20thousands%20of%20people%20worldwide%20each,on%20average%20across%20the%20world.
