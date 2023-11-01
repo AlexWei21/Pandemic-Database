@@ -2,8 +2,8 @@
 
 ## Data Property
 
-**Date Range**: 
-**Frequency**: Daily 
-**Location Type**: Country 
-**Num. of Locations**: 10
-**Length of Time Series**: 1000 
+**Date Range**: 2020-01-03 - 2023-10-25\
+**Frequency**: Daily \
+**Location Type**: Country \
+**Num. of Locations**: 237 \
+**Length of Time Series**: 1,392 \
