@@ -6,7 +6,7 @@
 **Frequency**: Daily \
 **Location Type**: Country \
 **Num. of Locations**: 237 \
-**Length of Time Series**: 1,392 \
+**Length of Time Series**: 1,392 
 
 ## Data Source
 https://covid19.who.int/data
