@@ -2,7 +2,8 @@
 
 ## Data Property
 
-**Data Start Date**: 2020-01-03 \
+**Data Start Date**\
+2020-01-03 \
 **Data End Date**: 2023-10-25 \
 **Frequency**: Daily \
 **Location Type**: Country \
