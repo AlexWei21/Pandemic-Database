@@ -1,12 +1,12 @@
 # 2019 - 2023 Covid Outbreak Time Series Data
 
 ## Data Files
-| File Name | Description |
-| --- | --- |
-| `Covid_World_Daily_Cases.csv` | |
-| `Covid_World_Daily_CumCases.csv` | | 
-| `Covid_World_Daily_CumDeaths.csv` | |
-| `Covid_world_Daily_Deaths.csv` | |
+`Covid_World_Daily_Cases.csv`: Time Series Data for Covid-19 daily confirmed case number \
+`Covid_World_Daily_CumCases.csv`: Time Series Data for Covid-19 daily cumulative confirmed case number \
+`Covid_world_Daily_Deaths.csv`: Time Series Data for Covid-19 daily death number \
+`Covid_World_Daily_CumDeaths.csv`: Time Series Data for Covid-19 daily cumulative death number 
+
+## Data Columns
 
 ## Data Property
 **Data Start Date** \
