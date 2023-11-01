@@ -2,6 +2,7 @@
 
 ## Data Property
 |---|---|
+|---|---|
 |**Date Range**|  |
 |**Frequency**| Daily |
 |**Geological Level**| Country |
