@@ -2,7 +2,7 @@
 
 ## Data Property
 
-**Date Range**: 
+**Date Range**: \
 **Frequency**: Daily \
-**Geological Level**: Country
-**Length of Time Series**: 1000
+**Geological Level**: Country \
+**Length of Time Series**: 1000 \
