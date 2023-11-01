@@ -3,10 +3,12 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
-| `Covid_World_Daily_Cases.csv` | Time Series Data for Covid-19 daily confirmed case number |
-| `Covid_World_Daily_CumCases.csv` | Time Series Data for Covid-19 daily cumulative confirmed case number |
-| `Covid_world_Daily_Deaths.csv` | Time Series Data for Covid-19 daily death number |
-| `Covid_World_Daily_CumDeaths.csv` | Time Series Data for Covid-19 daily cumulative death number |
+| `Ebola_Guinea_Weekly_Cases.csv` | Time Series Data for Ebola weekly confirmed case number in Guinea|
+| `Ebola_Guinea_Weekly_CumCases.csv` | Time Series Data for Ebola weekly cumulative confirmed case number in Guinea|
+| `Ebola_Liberia_Weekly_Cases.csv` | Time Series Data for Ebola weekly confirmed case number in Liberia|
+| `Ebola_Liberia_Weekly_CumCases.csv` | Time Series Data for Ebola weekly cumulative confirmed case number in Liberia|
+| `Ebola_SierraLeone_Weekly_Cases.csv` | Time Series Data for Ebola weekly confirmed case number in SierraLeone|
+| `Ebola_SierraLeone_Weekly_CumCases.csv` | Time Series Data for Ebola weekly cumulative confirmed case number in SierraLeone|
 
 ## Data Columns
 | Column Name | Description |
@@ -24,17 +26,17 @@
 
 ## Data Property
 **Data Start Date** \
-2020-01-03 \
+2014-03-25 \
 **Data End Date** \
-2023-10-25 \
+2016-04-13 \
 **Frequency** \
-Daily \
+Weekly \
 **Location Type** \
 Country \
 **Num. of Locations** \
-237 \
+3 \
 **Length of Time Series** \
-1,392 
+266
 
 ## Data Source
-https://covid19.who.int/data
+https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/case-counts.html
