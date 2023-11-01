@@ -19,6 +19,7 @@
 | `State/City` | The state or city name for the data point |
 | `date` | Date for the data point |
 | `type` | type of the data, could be one of the following `[Cases, Cumulative_Cases, Deaths, Cumulative_Deaths, Weighted_Ratio]` |
+| `number` | type value |
 
 
 
