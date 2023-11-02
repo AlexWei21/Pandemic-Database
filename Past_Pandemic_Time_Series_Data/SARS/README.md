@@ -37,4 +37,5 @@ Country \
 5 - 96 (Depends on Country)
 
 ## Data Source
-https://covid19.who.int/data
+https://www.who.int/csr/sars/country/en/
+https://github.com/imdevskp/sars-2003-outbreak-data-webscraping-code
