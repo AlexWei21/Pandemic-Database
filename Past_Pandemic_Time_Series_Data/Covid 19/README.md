@@ -3,10 +3,14 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
-| `Covid_World_Daily_Cases.csv` | Time Series Data for Covid-19 daily confirmed case number |
-| `Covid_World_Daily_CumCases.csv` | Time Series Data for Covid-19 daily cumulative confirmed case number |
-| `Covid_world_Daily_Deaths.csv` | Time Series Data for Covid-19 daily death number |
-| `Covid_World_Daily_CumDeaths.csv` | Time Series Data for Covid-19 daily cumulative death number |
+| `Covid_World_Daily_Cases.csv` | Time Series Data for World Covid-19 daily confirmed case number |
+| `Covid_World_Daily_CumCases.csv` | Time Series Data for World Covid-19 daily cumulative confirmed case number |
+| `Covid_world_Daily_Deaths.csv` | Time Series Data for World Covid-19 daily death number |
+| `Covid_World_Daily_CumDeaths.csv` | Time Series Data for World Covid-19 daily cumulative death number |
+| `Covid_US_Daily_Cases.csv` | Time Series Data for US Covid-19 daily confirmed case number |
+| `Covid_US_Daily_CumCases.csv` | Time Series Data for US Covid-19 daily cumulative confirmed case number |
+| `Covid_US_Daily_Deaths.csv` | Time Series Data for US Covid-19 daily death number |
+| `Covid_US_Daily_CumDeaths.csv` | Time Series Data for US Covid-19 daily cumulative death number |
 
 ## Data Columns
 | Column Name | Description |
@@ -25,17 +29,22 @@
 
 ## Data Property
 **Data Start Date** \
-2020-01-03 \
+(World) 2020-01-03 \
+(United States) 2020-01-21\
 **Data End Date** \
-2023-10-25 \
+(World) 2023-10-25 \
+(United States) 2023-03-23 \
 **Frequency** \
 Daily \
 **Location Type** \
-Country \
+(World) Country \
+(United States) State \
 **Num. of Locations** \
-237 \
+(World) 237 \
+(State) 56 \
 **Length of Time Series** \
-1,392 
+(World) 1,392 \  
+(United States) 548 - 1,158
 
 ## Data Source
 (World) https://covid19.who.int/data
