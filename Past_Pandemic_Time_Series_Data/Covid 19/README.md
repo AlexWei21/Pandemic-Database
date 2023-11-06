@@ -38,4 +38,5 @@ Country \
 1,392 
 
 ## Data Source
-https://covid19.who.int/data
+(World) https://covid19.who.int/data
+(United States, State-Level) https://www.nytimes.com/interactive/2021/us/covid-cases.html
