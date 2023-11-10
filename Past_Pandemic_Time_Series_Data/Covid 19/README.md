@@ -53,6 +53,6 @@ Daily \
 (United States) 548 - 1,158
 
 ## Data Source
-(World) https://covid19.who.int/data
-(World, Domain Level) https://github.com/CSSEGISandData/COVID-19
+(World) https://covid19.who.int/data \
+(World, Domain Level) https://github.com/CSSEGISandData/COVID-19 \
 (United States, Domain Level) https://www.nytimes.com/interactive/2021/us/covid-cases.html
