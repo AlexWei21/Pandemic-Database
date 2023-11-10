@@ -54,4 +54,5 @@ Daily \
 
 ## Data Source
 (World) https://covid19.who.int/data
-(United States, State-Level) https://www.nytimes.com/interactive/2021/us/covid-cases.html
+(World, Domain Level) https://github.com/CSSEGISandData/COVID-19
+(United States, Domain Level) https://www.nytimes.com/interactive/2021/us/covid-cases.html
