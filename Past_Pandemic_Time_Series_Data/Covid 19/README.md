@@ -3,6 +3,11 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
+| `Covid_World_Domain_Daily_CumCases.csv` | Time Series Data for World Covid-19 Country level and Domain level daily confirmed cumulative case number |
+
+## Arichived Files
+| File Name | Description |
+| --- | ---|
 | `Covid_World_Daily_Cases.csv` | Time Series Data for World Covid-19 daily confirmed case number |
 | `Covid_World_Daily_CumCases.csv` | Time Series Data for World Covid-19 daily cumulative confirmed case number |
 | `Covid_world_Daily_Deaths.csv` | Time Series Data for World Covid-19 daily death number |
@@ -20,7 +25,8 @@
 | `Microbe Species` | Species name for the microbe that caused the pandemic |
 | `Region` | The WHO region name for the data point |
 | `Country` | The Country name for the data point |
-| `State/City` | The state or city name for the data point |
+| `Domain` | The state or province name for the data point |
+| `Sub-Domain` | The city name for the data point |
 | `date` | Date for the data point |
 | `type` | type of the data, could be one of the following `[Cases, Cumulative_Cases, Deaths, Cumulative_Deaths, Weighted_Ratio]` |
 | `number` | type value |
