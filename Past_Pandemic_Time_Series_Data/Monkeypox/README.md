@@ -24,22 +24,22 @@
 
 ## Data Property
 **Data Start Date** \
-2022-05-01 \
+2022-05-01 
 
 **Data End Date** \
 2023-10-19
 
 **Frequency** \
-Daily \
+Daily 
 
 **Location Type** \
-Country \
+Country 
 
 **Num. of Locations** \
-(World) 116 \
+(World) 116 
 
 **Length of Time Series** \
-(World) 504 \  
+(World) 504  
 
 ## Data Source
 https://ourworldindata.org/monkeypox
