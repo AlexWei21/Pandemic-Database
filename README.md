@@ -31,3 +31,4 @@ This repository collects meta data for recent large pandemics taken place around
 | Monkeypox | Poxviridae | Orthopoxvirus	| MPXV | Daily | May 2022 | July 2023 | World | --- | --- | https://ourworldindata.org/monkeypox |
 | Zika Virus | Flaviviridae	| Flavivirus	| Zika Virus | Weekly | November 2015 | July 2016 | South/Central America, Caribbean | --- | --- | https://www3.paho.org/data/index.php/en/mnu-topics/zika-weekly-en/ |
 | Influenza | Orthomyxovididae | Influenza A, B, and C Virus	| --- | Weekly | 2009-01-05 | 2023-10-09 | World | 771 | % Weighted ILI | https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html \ https://ourworldindata.org/influenza#:~:text=pandemic%20in%20history-,Seasonal%20flu%20kills%20hundreds%20of%20thousands%20of%20people%20worldwide%20each,on%20average%20across%20the%20world. |
+| H1N1 | 	| 	|  | Daily | 2009-04-24 | 2009-07-06 | World | --- | --- | https://www.kaggle.com/datasets/imdevskp/h1n1-swine-flu-2009-pandemic-dataset |
