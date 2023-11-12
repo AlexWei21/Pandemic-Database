@@ -24,8 +24,7 @@ This repository collects meta data for recent large pandemics taken place around
 ## Time Series Data
 | Pandemic | Microbe Family | Microbe Genus | Microbe Species | Frequency | Data Start Time | Data End Time | Collected Area | Data Length | Data Type | Data Source |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| COVID-19 | Coronaviridae	| Betacoronavirus	| SARS-CoV-2 | Daily | 2020-01-03 | 2023-10-25 | World | 1,392 | Case, Death | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh / https://covid19.who.int/data
-https://www.nytimes.com/interactive/2021/us/covid-cases.html |
+| COVID-19 | Coronaviridae	| Betacoronavirus	| SARS-CoV-2 | Daily | 2020-01-03 | 2023-10-25 | World | 1,392 | Case, Death | https://beta.healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/g62h-syeh / https://covid19.who.int/data / https://www.nytimes.com/interactive/2021/us/covid-cases.html |
 | Ebola | Filoviridae	| Ebolavirus	| Ebola Virus, Sudan Virus, Tai Forest Virus, Bundibugyo Virus | Weekly | 2014-03-25 | 2016-04-13 | Africa | 266 | Case | https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/case-counts.html |
 | SARS | Coronaviridae	| Betacoronavirus	| SARS-CoV-1 | Daily (Except for Sunday) | 2003-03-17 | 2003-07-11 | World | 96 | Case, Recovered | https://www.who.int/csr/sars/country/en/ 
 https://github.com/imdevskp/sars-2003-outbreak-data-webscraping-code|
