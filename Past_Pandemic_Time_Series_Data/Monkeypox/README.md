@@ -36,10 +36,10 @@ Daily
 Country 
 
 **Num. of Locations** \
-(World) 116 
+116 
 
 **Length of Time Series** \
-(World) 504  
+504  
 
 ## Data Source
 https://ourworldindata.org/monkeypox
