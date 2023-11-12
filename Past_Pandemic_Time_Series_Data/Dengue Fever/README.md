@@ -3,6 +3,11 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
+| `Dengue_AMRO_Country_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number in WHO Region AMRO|
+
+## Archived Files
+| File Name | Description |
+| --- | ---|
 | `Dengue_Iquitos_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number in Iquitos|
 | `Dengue_Sanjuan_Weekly_Cases.csv` | Time Series Data for Dengue Fever weekly confirmed case number in Sanjuan|
 
@@ -14,7 +19,8 @@
 | `Microbe Species` | Species name for the microbe that caused the pandemic |
 | `Region` | The WHO region name for the data point |
 | `Country` | The Country name for the data point |
-| `State/City` | The state or city name for the data point |
+| `Domain` | The state or province name for the data point |
+| `Sub-Domain` | The city name for the data point |
 | `date` | Date for the data point |
 | `type` | type of the data, could be one of the following `[Cases, Cumulative_Cases, Deaths, Cumulative_Deaths, Weighted_Ratio]` |
 | `number` | type value |
