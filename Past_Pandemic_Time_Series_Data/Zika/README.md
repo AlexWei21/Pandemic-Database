@@ -3,7 +3,7 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
-
+| `Zika_World_Country_Weekly_Cases.csv` | Time Series Data for Zika Country level weekly confirmed case number|
 
 ## Data Columns
 | Column Name | Description |
@@ -39,6 +39,6 @@ Country
 84
 
 ## Data Source
-https://ourworldindata.org/monkeypox
+https://www3.paho.org/data/index.php/en/mnu-topics/zika-weekly-en/
 
 
