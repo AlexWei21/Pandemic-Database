@@ -3,6 +3,11 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
+| Influenza_World_Domain_Weekly_Cases.csv | Time Series Data for Influence in domain level weekly confirmed case number |
+
+## Archived Files
+| File Name | Description |
+| --- | ---|
 | `Influenza_World_Weekly_Cases.csv` | Time Series Data for Influenza weekly confirmed case number |
 
 ## Data Columns
@@ -13,7 +18,8 @@
 | `Microbe Species` | Species name for the microbe that caused the pandemic |
 | `Region` | The WHO region name for the data point |
 | `Country` | The Country name for the data point |
-| `State/City` | The state or city name for the data point |
+| `Domain` | The state or province name for the data point |
+| `Sub-Domain` | The city name for the data point |
 | `date` | Date for the data point |
 | `type` | type of the data, could be one of the following `[Cases, Cumulative_Cases, Deaths, Cumulative_Deaths, Weighted_Ratio]` |
 | `number` | type value |
@@ -21,15 +27,20 @@
 
 ## Data Property
 **Data Start Date** \
-2009-01-05 \
+(World) 2009-01-05 \
+(United States) 2010-10-04
 **Data End Date** \
-2023-10-09 \
+(World) 2023-10-09 \
+(United States) 2023-10-23
 **Frequency** \
 Weekly \
 **Location Type** \
-Country \
+(World) Country \
+(United States) State 
 **Num. of Locations** \
-157 \
+(World) 157 \
+(United States) 55
+
 **Length of Time Series** \
 8 - 771 (Length varies based on different countries)
 
