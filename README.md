@@ -1,7 +1,7 @@
 # Pandemic-Database
 
 ## Introduction
-This repository collects meta data for recent large pandemics taken place around the world. The dataset contains frequently reported case number, reproduction rate, transmission pathways, mortality rate, hospitalization rate, latent period, incubation period, and average hospitalization length for the recorded pandemics. 
+This repository collects the time series and meta data for past large pandemics taken place around the world. The time series dataset contains frequently reported case numbers, death numbers, or  recovery data for different pandemics, and the meta-data table contains the reproduction rate, transmission pathways, mortality rate, hospitalization rate, latent period, incubation period, and average hospitalization length for the recorded pandemics. 
 
 ## Data Folders and Files
 |Data Folder|Description|
@@ -9,7 +9,7 @@ This repository collects meta data for recent large pandemics taken place around
 |`Past_Pandemic_Time_Series_Data`| The data folder that contains the processed time series data for past pandemics | 
 |`Raw_Data`| The raw data folder that contains the raw data for past pandemics |
 |`Internal`| The internal folder that contains the processing files and intermediate data archive files during processing |
-| `Past Pandemic MetaData.xlsx` | The excel sheet that contains the meta-data of different Pandemics| 
+| `Past Pandemic MetaData.xlsx` | The Excel sheet that contains the meta-data of different Pandemics| 
 
 ## Selected Meta Features
 | Features | Explanation |
