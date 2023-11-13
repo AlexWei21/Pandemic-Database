@@ -3,7 +3,7 @@
 ## Data Files
 | File Name | Description |
 | --- | ---|
-| Influenza_World_Domain_Weekly_Cases.csv | Time Series Data for Influence in domain level weekly confirmed case number |
+| `Influenza_World_Domain_Weekly_Cases.csv` | Time Series Data for Influence in domain level weekly confirmed case number |
 
 ## Archived Files
 | File Name | Description |
