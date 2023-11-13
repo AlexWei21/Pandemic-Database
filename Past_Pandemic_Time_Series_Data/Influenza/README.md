@@ -29,14 +29,18 @@
 **Data Start Date** \
 (World) 2009-01-05 \
 (United States) 2010-10-04
+
 **Data End Date** \
 (World) 2023-10-09 \
 (United States) 2023-10-23
+
 **Frequency** \
-Weekly \
+Weekly 
+
 **Location Type** \
 (World) Country \
 (United States) State 
+
 **Num. of Locations** \
 (World) 157 \
 (United States) 55
