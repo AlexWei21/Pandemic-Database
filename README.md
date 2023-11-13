@@ -3,7 +3,14 @@
 ## Introduction
 This repository collects the time series and meta data for past large pandemics taken place around the world. The time series dataset contains frequently reported case numbers, death numbers, or  recovery data for different pandemics, and the meta-data table contains the reproduction rate, transmission pathways, mortality rate, hospitalization rate, latent period, incubation period, and average hospitalization length for the recorded pandemics. 
 
-Currently contains data from: Covid-19 (2020-2023), Ebola (2014-2016), SARS (2003), Dengue Fever (1990-2010), Monkeypox (2022-2023), Zika Virus (2015-2016), Influenza/Flu (2009-2023)
+**Currently contains data**
+Covid-19 (2020-2023) \
+Ebola (2014-2016) \
+SARS (2003) \
+Dengue Fever (1990-2010) \
+Monkeypox (2022-2023) \
+Zika Virus (2015-2016) \
+Influenza/Flu (2009-2023)
 
 ## Data Folders and Files
 |Data Folder|Description|
