@@ -4,6 +4,7 @@
 | File Name | Description |
 | --- | ---|
 | `Covid_World_Domain_Daily_CumCases.csv` | Time Series Data for World Covid-19 Country level and Domain level daily confirmed cumulative case number |
+| `Covid_World_Domain_Daily_CumDeaths.csv` | Time Series Data for World Covid-19 Country level and Domain level daily confirmed cumulative death number |
 
 ## Data Columns
 | Column Name | Description |
