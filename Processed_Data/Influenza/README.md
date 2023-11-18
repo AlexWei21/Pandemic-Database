@@ -5,11 +5,6 @@
 | --- | ---|
 | `Influenza_World_Domain_Weekly_Cases.csv` | Time Series Data for Influence in domain level weekly confirmed case number |
 
-## Archived Files
-| File Name | Description |
-| --- | ---|
-| `Influenza_World_Weekly_Cases.csv` | Time Series Data for Influenza weekly confirmed case number |
-
 ## Data Columns
 | Column Name | Description |
 | --- | --- |
