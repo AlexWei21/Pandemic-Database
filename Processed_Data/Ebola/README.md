@@ -6,16 +6,6 @@
 | `Ebola_AFRO_Country_Weekly_Cases.csv` | Time Series Data for Ebola country level weekly confirmed case number |
 | `Ebola_AFRO_Country_Weekly_CumCases.csv` | Time Series Data for Ebola country level weekly cumulative confirmed case number |
 
-## Archived Files
-| File Name | Description |
-| --- | ---|
-| `Ebola_Guinea_Weekly_Cases.csv` | Time Series Data for Ebola weekly confirmed case number in Guinea|
-| `Ebola_Guinea_Weekly_CumCases.csv` | Time Series Data for Ebola weekly cumulative confirmed case number in Guinea|
-| `Ebola_Liberia_Weekly_Cases.csv` | Time Series Data for Ebola weekly confirmed case number in Liberia|
-| `Ebola_Liberia_Weekly_CumCases.csv` | Time Series Data for Ebola weekly cumulative confirmed case number in Liberia|
-| `Ebola_SierraLeone_Weekly_Cases.csv` | Time Series Data for Ebola weekly confirmed case number in SierraLeone|
-| `Ebola_SierraLeone_Weekly_CumCases.csv` | Time Series Data for Ebola weekly cumulative confirmed case number in SierraLeone|
-
 ## Data Columns
 | Column Name | Description |
 | --- | --- |
