@@ -15,7 +15,7 @@ This repository collects the time series and meta data for past large pandemics 
 ## Data Folders and Files
 |Data Folder|Description|
 |---|---|
-|`Past_Pandemic_Time_Series_Data`| The data folder that contains the processed time series data for past pandemics | 
+|`Processed_Data`| The data folder that contains the processed time series data for past pandemics | 
 |`Raw_Data`| The raw data folder that contains the raw data for past pandemics |
 |`Internal`| The internal folder that contains the processing files and intermediate data archive files during processing |
 | `Past Pandemic MetaData.xlsx` | The Excel sheet that contains the meta-data of different Pandemics| 
